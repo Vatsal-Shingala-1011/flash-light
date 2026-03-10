@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Glow ring that appears behind bulb when light is ON -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <gradient
+        android:type="radial"
+        android:gradientRadius="75dp"
+        android:centerX="0.5"
+        android:centerY="0.5"
+        android:startColor="#55FF9736"
+        android:endColor="#00FF9736" />
+    <size android:width="200dp" android:height="200dp" />
+</shape>

@@ -3,25 +3,26 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
-    android:background="@color/background_dark"
+    android:background="@drawable/bg_gradient_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
     tools:context=".MainActivity">
 
     <!-- SOS Button (top-left, prominent) -->
     <TextView
         android:id="@+id/sos_button"
         android:layout_width="wrap_content"
-        android:layout_height="40dp"
+        android:layout_height="38dp"
         android:gravity="center"
-        android:paddingHorizontal="20dp"
+        android:paddingHorizontal="18dp"
         android:text="@string/sos_label"
         android:textColor="#FFFFFF"
-        android:textSize="14sp"
+        android:textSize="13sp"
         android:textStyle="bold"
-        android:letterSpacing="0.1"
+        android:letterSpacing="0.08"
         android:background="@drawable/bg_sos_button"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="16dp"
         android:layout_marginStart="16dp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -35,7 +36,7 @@
         android:gravity="center_vertical"
         android:orientation="horizontal"
         android:padding="6dp"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="16dp"
         android:layout_marginEnd="16dp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintEnd_toEndOf="parent">
@@ -45,19 +46,53 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="100%"
-            android:textColor="#AAAAAA"
-            android:textSize="12sp"
-            android:layout_marginEnd="4dp" />
+            android:textColor="#999999"
+            android:textSize="11sp"
+            android:fontFamily="sans-serif-medium"
+            android:layout_marginEnd="6dp" />
 
         <ProgressBar
             android:id="@+id/battery_progress"
             style="@android:style/Widget.ProgressBar.Horizontal"
-            android:layout_width="40dp"
-            android:layout_height="6dp"
+            android:layout_width="36dp"
+            android:layout_height="5dp"
             android:max="100"
             android:progress="100"
             android:progressDrawable="@drawable/bg_speed_slider_track" />
     </LinearLayout>
+
+    <!-- Theme Toggle (below battery, top-right) -->
+    <TextView
+        android:id="@+id/theme_toggle"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:gravity="center"
+        android:text="☀"
+        android:textColor="#FFD54F"
+        android:textSize="20sp"
+        android:background="@drawable/bg_theme_toggle"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        app:layout_constraintTop_toBottomOf="@id/battery_container"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Shake Toggle (below theme toggle, top-right) -->
+    <TextView
+        android:id="@+id/shake_toggle"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:gravity="center"
+        android:text="🤳"
+        android:textSize="18sp"
+        android:background="@drawable/bg_theme_toggle"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        app:layout_constraintTop_toBottomOf="@id/theme_toggle"
+        app:layout_constraintEnd_toEndOf="parent" />
 
     <!-- Timer display (below SOS, top-left) -->
     <TextView
@@ -66,34 +101,37 @@
         android:layout_height="wrap_content"
         android:text=""
         android:textColor="#FF9736"
-        android:textSize="13sp"
+        android:textSize="12sp"
         android:textStyle="bold"
+        android:fontFamily="sans-serif-medium"
         android:visibility="gone"
         android:background="@drawable/bg_battery_indicator"
         android:padding="6dp"
-        android:layout_marginTop="4dp"
+        android:layout_marginTop="6dp"
         android:layout_marginStart="16dp"
         app:layout_constraintTop_toBottomOf="@id/sos_button"
         app:layout_constraintStart_toStartOf="parent" />
 
-    <!-- Mode label (below battery) -->
+    <!-- Mode label (centered, below top row) -->
     <TextView
         android:id="@+id/mode_label"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/mode_normal"
-        android:textColor="#888888"
-        android:textSize="12sp"
-        android:letterSpacing="0.15"
-        android:layout_marginTop="8dp"
-        app:layout_constraintTop_toBottomOf="@id/battery_container"
+        android:textColor="#666666"
+        android:textSize="11sp"
+        android:fontFamily="sans-serif-medium"
+        android:letterSpacing="0.2"
+        android:textAllCaps="true"
+        android:layout_marginTop="10dp"
+        app:layout_constraintTop_toBottomOf="@id/shake_toggle"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
-    <!-- Vertical Line -->
+    <!-- Vertical Line (rope) -->
     <View
         android:id="@+id/line_5"
-        android:layout_width="5dp"
+        android:layout_width="4dp"
         android:layout_height="0dp"
         android:background="@drawable/lines"
         app:layout_constraintTop_toBottomOf="@id/mode_label"
@@ -101,13 +139,25 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHeight_default="percent"
-        app:layout_constraintHeight_percent="0.32" />
+        app:layout_constraintHeight_percent="0.28" />
+
+    <!-- Glow ring (behind bulb, visible when ON) -->
+    <View
+        android:id="@+id/glow_ring"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@drawable/bg_glow_ring"
+        android:alpha="0"
+        app:layout_constraintTop_toTopOf="@id/lightBulb"
+        app:layout_constraintBottom_toBottomOf="@id/lightBulb"
+        app:layout_constraintStart_toStartOf="@id/lightBulb"
+        app:layout_constraintEnd_toEndOf="@id/lightBulb" />
 
     <!-- Transparent Ellipses (glow effect) -->
     <View
         android:id="@+id/ellipse_1"
-        android:layout_width="150dp"
-        android:layout_height="148dp"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
         android:background="@drawable/one"
         app:layout_constraintTop_toTopOf="@id/lightBulb"
         app:layout_constraintBottom_toBottomOf="@id/lightBulb"
@@ -116,8 +166,8 @@
 
     <View
         android:id="@+id/ellipse_2"
-        android:layout_width="200dp"
-        android:layout_height="197dp"
+        android:layout_width="190dp"
+        android:layout_height="190dp"
         android:background="@drawable/one"
         android:alpha="0.1"
         app:layout_constraintTop_toTopOf="@id/ellipse_1"
@@ -127,8 +177,8 @@
 
     <View
         android:id="@+id/ellipse_3"
-        android:layout_width="250dp"
-        android:layout_height="246dp"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
         app:layout_constraintTop_toTopOf="@id/ellipse_2"
         app:layout_constraintBottom_toBottomOf="@id/ellipse_2"
         app:layout_constraintStart_toStartOf="@id/ellipse_2"
@@ -138,20 +188,20 @@
 
     <View
         android:id="@+id/ellipse_4"
-        android:layout_width="300dp"
-        android:layout_height="295dp"
+        android:layout_width="290dp"
+        android:layout_height="290dp"
         app:layout_constraintTop_toTopOf="@id/ellipse_3"
         app:layout_constraintBottom_toBottomOf="@id/ellipse_3"
         app:layout_constraintStart_toStartOf="@id/ellipse_3"
         app:layout_constraintEnd_toEndOf="@id/ellipse_3"
         android:background="@drawable/one"
-        android:alpha="0.1" />
+        android:alpha="0.08" />
 
     <!-- Light Bulb Icon -->
     <ImageView
         android:id="@+id/lightBulb"
-        android:layout_width="76dp"
-        android:layout_height="93dp"
+        android:layout_width="80dp"
+        android:layout_height="98dp"
         android:src="@drawable/bulb_off"
         android:contentDescription="@string/flashlight_bulb"
         app:layout_constraintTop_toBottomOf="@id/line_5"
@@ -176,14 +226,15 @@
         android:layout_height="wrap_content"
         android:text="@string/tap_to_close"
         android:textColor="#333333"
-        android:textSize="16sp"
+        android:textSize="15sp"
         android:textStyle="bold"
+        android:fontFamily="sans-serif-medium"
         android:visibility="gone"
         android:elevation="101dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:layout_marginBottom="60dp" />
+        android:layout_marginBottom="80dp" />
 
     <!-- Speed control for Strobe mode -->
     <LinearLayout
@@ -192,7 +243,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:gravity="center"
-        android:paddingHorizontal="40dp"
+        android:paddingHorizontal="48dp"
         android:visibility="gone"
         app:layout_constraintTop_toBottomOf="@id/ellipse_4"
         app:layout_constraintBottom_toTopOf="@id/timer_section">
@@ -202,9 +253,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/strobe_speed"
-            android:textColor="#AAAAAA"
-            android:textSize="12sp"
-            android:layout_marginBottom="4dp" />
+            android:textColor="#888888"
+            android:textSize="11sp"
+            android:fontFamily="sans-serif-medium"
+            android:letterSpacing="0.05"
+            android:layout_marginBottom="6dp" />
 
         <SeekBar
             android:id="@+id/speed_seekbar"
@@ -224,7 +277,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:gravity="center"
-        android:layout_marginBottom="8dp"
+        android:layout_marginBottom="10dp"
         app:layout_constraintBottom_toTopOf="@id/mode_selector_container">
 
         <TextView
@@ -232,10 +285,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/auto_off_timer"
-            android:textColor="#888888"
-            android:textSize="11sp"
-            android:letterSpacing="0.1"
-            android:layout_marginBottom="6dp" />
+            android:textColor="#555555"
+            android:textSize="10sp"
+            android:fontFamily="sans-serif-medium"
+            android:letterSpacing="0.15"
+            android:layout_marginBottom="8dp" />
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -246,61 +300,66 @@
             <TextView
                 android:id="@+id/timer_off"
                 android:layout_width="wrap_content"
-                android:layout_height="32dp"
+                android:layout_height="30dp"
                 android:gravity="center"
-                android:paddingHorizontal="14dp"
+                android:paddingHorizontal="12dp"
                 android:text="@string/timer_off_label"
                 android:textColor="#FFFFFF"
-                android:textSize="12sp"
+                android:textSize="11sp"
                 android:textStyle="bold"
+                android:fontFamily="sans-serif-medium"
                 android:background="@drawable/bg_timer_button"
-                android:layout_marginEnd="6dp" />
+                android:layout_marginEnd="5dp" />
 
             <TextView
                 android:id="@+id/timer_1min"
                 android:layout_width="wrap_content"
-                android:layout_height="32dp"
+                android:layout_height="30dp"
                 android:gravity="center"
-                android:paddingHorizontal="14dp"
+                android:paddingHorizontal="12dp"
                 android:text="@string/timer_1min"
-                android:textColor="#AAAAAA"
-                android:textSize="12sp"
+                android:textColor="#888888"
+                android:textSize="11sp"
+                android:fontFamily="sans-serif-medium"
                 android:background="@drawable/bg_timer_button"
-                android:layout_marginEnd="6dp" />
+                android:layout_marginEnd="5dp" />
 
             <TextView
                 android:id="@+id/timer_5min"
                 android:layout_width="wrap_content"
-                android:layout_height="32dp"
+                android:layout_height="30dp"
                 android:gravity="center"
-                android:paddingHorizontal="14dp"
+                android:paddingHorizontal="12dp"
                 android:text="@string/timer_5min"
-                android:textColor="#AAAAAA"
-                android:textSize="12sp"
+                android:textColor="#888888"
+                android:textSize="11sp"
+                android:fontFamily="sans-serif-medium"
                 android:background="@drawable/bg_timer_button"
-                android:layout_marginEnd="6dp" />
+                android:layout_marginEnd="5dp" />
 
             <TextView
                 android:id="@+id/timer_15min"
                 android:layout_width="wrap_content"
-                android:layout_height="32dp"
+                android:layout_height="30dp"
                 android:gravity="center"
-                android:paddingHorizontal="14dp"
+                android:paddingHorizontal="12dp"
                 android:text="@string/timer_15min"
-                android:textColor="#AAAAAA"
-                android:textSize="12sp"
+                android:textColor="#888888"
+                android:textSize="11sp"
+                android:fontFamily="sans-serif-medium"
                 android:background="@drawable/bg_timer_button"
-                android:layout_marginEnd="6dp" />
+                android:layout_marginEnd="5dp" />
 
             <TextView
                 android:id="@+id/timer_custom"
                 android:layout_width="wrap_content"
-                android:layout_height="32dp"
+                android:layout_height="30dp"
                 android:gravity="center"
-                android:paddingHorizontal="14dp"
+                android:paddingHorizontal="12dp"
                 android:text="@string/timer_custom"
-                android:textColor="#AAAAAA"
-                android:textSize="12sp"
+                android:textColor="#888888"
+                android:textSize="11sp"
+                android:fontFamily="sans-serif-medium"
                 android:background="@drawable/bg_timer_button" />
         </LinearLayout>
     </LinearLayout>
@@ -313,32 +372,34 @@
         android:orientation="horizontal"
         android:gravity="center"
         android:background="@drawable/bg_mode_container"
-        android:padding="4dp"
-        android:layout_marginHorizontal="24dp"
-        android:layout_marginBottom="8dp"
-        app:layout_constraintBottom_toTopOf="@id/outer_container">
+        android:padding="5dp"
+        android:layout_marginHorizontal="32dp"
+        android:layout_marginBottom="12dp"
+        app:layout_constraintBottom_toTopOf="@id/power_button">
 
         <TextView
             android:id="@+id/mode_normal"
             android:layout_width="0dp"
             android:layout_weight="1"
-            android:layout_height="36dp"
+            android:layout_height="38dp"
             android:gravity="center"
             android:text="@string/mode_normal"
             android:textColor="#FFFFFF"
             android:textSize="12sp"
             android:textStyle="bold"
+            android:fontFamily="sans-serif-medium"
             android:background="@drawable/bg_mode_button" />
 
         <TextView
             android:id="@+id/mode_strobe"
             android:layout_width="0dp"
             android:layout_weight="1"
-            android:layout_height="36dp"
+            android:layout_height="38dp"
             android:gravity="center"
             android:text="@string/mode_strobe"
-            android:textColor="#AAAAAA"
+            android:textColor="#888888"
             android:textSize="12sp"
+            android:fontFamily="sans-serif-medium"
             android:background="@drawable/bg_mode_button"
             android:layout_marginStart="4dp" />
 
@@ -346,65 +407,76 @@
             android:id="@+id/mode_screen"
             android:layout_width="0dp"
             android:layout_weight="1"
-            android:layout_height="36dp"
+            android:layout_height="38dp"
             android:gravity="center"
             android:text="@string/mode_screen"
-            android:textColor="#AAAAAA"
+            android:textColor="#888888"
             android:textSize="12sp"
+            android:fontFamily="sans-serif-medium"
             android:background="@drawable/bg_mode_button"
             android:layout_marginStart="4dp" />
     </LinearLayout>
 
-    <!-- Shake / On-Off Button (bottom) -->
-    <RelativeLayout
-        android:id="@+id/outer_container"
-        android:layout_width="136dp"
-        android:layout_height="36dp"
-        android:background="@drawable/button"
-        android:layout_marginBottom="20dp"
+    <!-- Large Power Button (bottom center) -->
+    <FrameLayout
+        android:id="@+id/power_button"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:background="@drawable/bg_power_button"
+        android:layout_marginBottom="24dp"
+        android:clickable="true"
+        android:focusable="true"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent">
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
 
-        <LinearLayout
-            android:id="@+id/shake_container"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:gravity="center_vertical"
-            android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/power_icon"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_power"
+            android:contentDescription="@string/flashlight_bulb" />
+    </FrameLayout>
 
-            <TextView
-                android:id="@+id/shake_text"
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:gravity="center"
-                android:text="@string/shake"
-                android:textColor="#FFFFFF"
-                android:textSize="16sp"
-                android:textStyle="bold" />
+    <!-- Status text below power button -->
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/status_off"
+        android:textColor="#666666"
+        android:textSize="11sp"
+        android:fontFamily="sans-serif-medium"
+        android:letterSpacing="0.1"
+        android:layout_marginTop="6dp"
+        app:layout_constraintTop_toBottomOf="@id/power_button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
 
-            <RelativeLayout
-                android:id="@+id/off_button"
-                android:layout_width="54dp"
-                android:layout_height="28dp"
-                android:clipToOutline="true"
-                android:background="@drawable/frame_shake"
-                android:layout_gravity="center_vertical"
-                android:layout_marginVertical="5dp"
-                android:layout_marginEnd="6dp">
+    <!-- Hidden views for backward compat (shake_text, off_button, outer_container) -->
+    <TextView
+        android:id="@+id/shake_text"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:visibility="gone"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
-                <TextView
-                    android:id="@+id/status"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:gravity="center"
-                    android:text="@string/status_off"
-                    android:textColor="#121212"
-                    android:textSize="14sp"
-                    android:textStyle="bold" />
-            </RelativeLayout>
-        </LinearLayout>
-    </RelativeLayout>
+    <View
+        android:id="@+id/off_button"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:visibility="gone"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <View
+        android:id="@+id/outer_container"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:visibility="gone"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

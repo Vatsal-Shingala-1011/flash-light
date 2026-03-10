@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Large circular power button – ON state with orange glow -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Outer glow ring -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#44FF9736" />
+            <size android:width="72dp" android:height="72dp" />
+        </shape>
+    </item>
+    <!-- Inner circle -->
+    <item android:left="3dp" android:top="3dp" android:right="3dp" android:bottom="3dp">
+        <shape android:shape="oval">
+            <solid android:color="#2A1E10" />
+            <stroke android:width="2.5dp" android:color="#FF9736" />
+        </shape>
+    </item>
+</layer-list>
