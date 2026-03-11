@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">手电筒开关按钮</string>
+
+    <!-- Language -->
+    <string name="choose_language">选择语言</string>
+    <string name="search_language">搜索语言…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">普通</string>
+    <string name="mode_sos">求救信号</string>
+    <string name="sos_label">⚠ 求救</string>
+    <string name="mode_strobe">频闪</string>
+    <string name="mode_screen">屏幕</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">摇一摇</string>
+    <string name="status_off">关</string>
+    <string name="status_on">开</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">自动关闭定时器</string>
+    <string name="timer_off_label">关</string>
+    <string name="timer_1min">1 分钟</string>
+    <string name="timer_5min">5 分钟</string>
+    <string name="timer_15min">15 分钟</string>
+    <string name="timer_custom">自定义</string>
+    <string name="timer_remaining">自动关闭：%1$s</string>
+    <string name="custom_timer_title">设置自定义定时器</string>
+    <string name="custom_timer_hint">分钟</string>
+    <string name="custom_timer_set">自定义：%1$d 分钟</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">频闪速度</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">点击任意位置关闭</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">摇一摇切换已启用！</string>
+    <string name="sos_activated">求救模式已激活 - 正在发送求救信号</string>
+    <string name="strobe_activated">频闪模式 - 在下方调整速度</string>
+    <string name="screen_light_info">屏幕灯模式 - 双击关闭</string>
+    <string name="flashlight_on">手电筒已开启</string>
+    <string name="flashlight_off">手电筒已关闭</string>
+    <string name="timer_set">自动关闭定时器已设置：%1$s</string>
+    <string name="timer_cancelled">定时器已取消</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">喜欢 Flashlight Pro 吗？</string>
+    <string name="rate_message">如果您觉得这个应用有用，请花一点时间给它评分。这真的很有帮助！</string>
+    <string name="rate_now">立即评分</string>
+    <string name="rate_later">稍后</string>
+    <string name="rate_never">不了，谢谢</string>
+
+    <!-- Widget -->
+    <string name="widget_description">点击即可开关手电筒</string>
+    <string name="widget_label">手电筒</string>
+</resources>

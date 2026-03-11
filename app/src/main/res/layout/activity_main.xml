@@ -94,6 +94,22 @@
         app:layout_constraintTop_toBottomOf="@id/theme_toggle"
         app:layout_constraintEnd_toEndOf="parent" />
 
+    <!-- Language Toggle (below shake toggle, top-right) -->
+    <TextView
+        android:id="@+id/language_toggle"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:gravity="center"
+        android:text="🌐"
+        android:textSize="18sp"
+        android:background="@drawable/bg_theme_toggle"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        app:layout_constraintTop_toBottomOf="@id/shake_toggle"
+        app:layout_constraintEnd_toEndOf="parent" />
+
     <!-- Timer display (below SOS, top-left) -->
     <TextView
         android:id="@+id/timer_display"
@@ -124,7 +140,7 @@
         android:letterSpacing="0.2"
         android:textAllCaps="true"
         android:layout_marginTop="10dp"
-        app:layout_constraintTop_toBottomOf="@id/shake_toggle"
+        app:layout_constraintTop_toBottomOf="@id/language_toggle"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">Pātene huri rama</string>
+
+    <!-- Language -->
+    <string name="choose_language">Kōwhiria te Reo</string>
+    <string name="search_language">Rapua te reo…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">Noa</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">Kanapu</string>
+    <string name="mode_screen">Mata</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">Ruirui</string>
+    <string name="status_off">Whakaweto</string>
+    <string name="status_on">Whakakā</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">PŪATAATA WHAKAWETO AUNOA</string>
+    <string name="timer_off_label">Whakaweto</string>
+    <string name="timer_1min">1 meneti</string>
+    <string name="timer_5min">5 meneti</string>
+    <string name="timer_15min">15 meneti</string>
+    <string name="timer_custom">Ritenga</string>
+    <string name="timer_remaining">Whakaweto aunoa: %1$s</string>
+    <string name="custom_timer_title">Whakaturia Pūataata Ritenga</string>
+    <string name="custom_timer_hint">Meneti</string>
+    <string name="custom_timer_set">Ritenga: %1$d meneti</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">Tere Kanapu</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">Pātene ki hea ki hea hei kati</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">Ruirui ki te huri kua whakakāngia!</string>
+    <string name="sos_activated">Aratau SOS Kua Whakakāngia - E tuku ana i te tohu ohotata</string>
+    <string name="strobe_activated">Aratau Kanapu - Whakaritea te tere i raro</string>
+    <string name="screen_light_info">Aratau Mārama Mata - Pātene rua hei kati</string>
+    <string name="flashlight_on">Rama WHAKAKĀ</string>
+    <string name="flashlight_off">Rama WHAKAWETO</string>
+    <string name="timer_set">Kua whakaturia te pūataata whakaweto aunoa: %1$s</string>
+    <string name="timer_cancelled">Kua whakakore te pūataata</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">E pai ana a Flashlight Pro?</string>
+    <string name="rate_message">Mēnā e whai hua tēnei taupānga ki a koe, tēnā koa whakaratohia. He āwhina tūturu!</string>
+    <string name="rate_now">Whakarato Ināianei</string>
+    <string name="rate_later">Ā muri</string>
+    <string name="rate_never">Kāo, Kia ora</string>
+
+    <!-- Widget -->
+    <string name="widget_description">Pātene ki te huri i te rama tonu</string>
+    <string name="widget_label">Rama</string>
+</resources>

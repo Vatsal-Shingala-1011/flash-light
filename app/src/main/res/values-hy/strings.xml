@@ -1,24 +1,16 @@
 <resources>
     <string name="app_name">Flashlight Pro</string>
     <string name="flashlight_bulb">Flashlight toggle button</string>
-
-    <!-- Language -->
     <string name="choose_language">Choose Language</string>
     <string name="search_language">Search language…</string>
-    
-    <!-- Mode labels -->
     <string name="mode_normal">Normal</string>
     <string name="mode_sos">SOS</string>
     <string name="sos_label">⚠ SOS</string>
     <string name="mode_strobe">Strobe</string>
     <string name="mode_screen">Screen</string>
-    
-    <!-- Shake / Status -->
     <string name="shake">Shake</string>
     <string name="status_off">Off</string>
     <string name="status_on">ON</string>
-    
-    <!-- Timer -->
     <string name="auto_off_timer">AUTO-OFF TIMER</string>
     <string name="timer_off_label">Off</string>
     <string name="timer_1min">1 min</string>
@@ -29,14 +21,8 @@
     <string name="custom_timer_title">Set Custom Timer</string>
     <string name="custom_timer_hint">Minutes</string>
     <string name="custom_timer_set">Custom: %1$d min</string>
-    
-    <!-- Strobe -->
     <string name="strobe_speed">Strobe Speed</string>
-    
-    <!-- Screen Light -->
     <string name="tap_to_close">Tap anywhere to close</string>
-    
-    <!-- Snackbar messages -->
     <string name="shake_enabled">Shake to toggle is enabled!</string>
     <string name="sos_activated">SOS Mode Activated - Sending distress signal</string>
     <string name="strobe_activated">Strobe Mode - Adjust speed below</string>
@@ -45,15 +31,11 @@
     <string name="flashlight_off">Flashlight OFF</string>
     <string name="timer_set">Auto-off timer set: %1$s</string>
     <string name="timer_cancelled">Timer cancelled</string>
-    
-    <!-- Rate dialog -->
     <string name="rate_title">Enjoying Flashlight Pro?</string>
     <string name="rate_message">If you find this app useful, please take a moment to rate it. It really helps!</string>
     <string name="rate_now">Rate Now</string>
     <string name="rate_later">Later</string>
     <string name="rate_never">No Thanks</string>
-
-    <!-- Widget -->
     <string name="widget_description">Tap to toggle flashlight instantly</string>
     <string name="widget_label">Flashlight</string>
 </resources>

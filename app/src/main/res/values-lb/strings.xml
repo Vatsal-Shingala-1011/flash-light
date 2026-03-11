@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">Tascheluucht Knäppchen</string>
+
+    <!-- Language -->
+    <string name="choose_language">Sprooch wielen</string>
+    <string name="search_language">Sprooch sichen…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">Normal</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">Strobe</string>
+    <string name="mode_screen">Écran</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">Schëddelen</string>
+    <string name="status_off">Aus</string>
+    <string name="status_on">Un</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">AUTOMATESCH AUS TIMER</string>
+    <string name="timer_off_label">Aus</string>
+    <string name="timer_1min">1 Min</string>
+    <string name="timer_5min">5 Min</string>
+    <string name="timer_15min">15 Min</string>
+    <string name="timer_custom">Benotzerdefinéiert</string>
+    <string name="timer_remaining">Automatesch aus: %1$s</string>
+    <string name="custom_timer_title">Benotzerdefinéierten Timer astellen</string>
+    <string name="custom_timer_hint">Minutten</string>
+    <string name="custom_timer_set">Benotzerdefinéiert: %1$d Min</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">Strobe Vitesse</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">Iwwerall tippen fir zouzemaachen</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">Schëddelen fir z\'änneren ass aktivéiert!</string>
+    <string name="sos_activated">SOS Modus aktivéiert - Noutsignal gëtt geschéckt</string>
+    <string name="strobe_activated">Strobe Modus - Vitesse ënnendrënner upassen</string>
+    <string name="screen_light_info">Écran Liicht Modus - Zweemol tippen fir zouzemaachen</string>
+    <string name="flashlight_on">Tascheluucht UN</string>
+    <string name="flashlight_off">Tascheluucht AUS</string>
+    <string name="timer_set">Automatesch aus Timer agestallt: %1$s</string>
+    <string name="timer_cancelled">Timer annulléiert</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Genéisst Dir Flashlight Pro?</string>
+    <string name="rate_message">Wann Dir dës App nëtzlech fannt, bewäert se w.e.g. Et hëlleft wierklech!</string>
+    <string name="rate_now">Elo bewäerten</string>
+    <string name="rate_later">Méi spéit</string>
+    <string name="rate_never">Nee Merci</string>
+
+    <!-- Widget -->
+    <string name="widget_description">Tippen fir d\'Tascheluucht direkt ëmzeschalten</string>
+    <string name="widget_label">Tascheluucht</string>
+</resources>

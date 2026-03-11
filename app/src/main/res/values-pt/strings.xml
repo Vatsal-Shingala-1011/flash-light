@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">Botão de ligar/desligar lanterna</string>
+
+    <!-- Language -->
+    <string name="choose_language">Escolher idioma</string>
+    <string name="search_language">Pesquisar idioma…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">Normal</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">Estroboscópico</string>
+    <string name="mode_screen">Tela</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">Agitar</string>
+    <string name="status_off">Desligado</string>
+    <string name="status_on">Ligado</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">TEMPORIZADOR AUTO-DESLIGAR</string>
+    <string name="timer_off_label">Desligado</string>
+    <string name="timer_1min">1 min</string>
+    <string name="timer_5min">5 min</string>
+    <string name="timer_15min">15 min</string>
+    <string name="timer_custom">Personalizado</string>
+    <string name="timer_remaining">Auto-desligar: %1$s</string>
+    <string name="custom_timer_title">Definir temporizador personalizado</string>
+    <string name="custom_timer_hint">Minutos</string>
+    <string name="custom_timer_set">Personalizado: %1$d min</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">Velocidade estroboscópica</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">Toque em qualquer lugar para fechar</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">Agitar para alternar está ativado!</string>
+    <string name="sos_activated">Modo SOS ativado - Enviando sinal de socorro</string>
+    <string name="strobe_activated">Modo estroboscópico - Ajuste a velocidade abaixo</string>
+    <string name="screen_light_info">Modo luz de tela - Toque duplo para fechar</string>
+    <string name="flashlight_on">Lanterna ligada</string>
+    <string name="flashlight_off">Lanterna desligada</string>
+    <string name="timer_set">Temporizador auto-desligar definido: %1$s</string>
+    <string name="timer_cancelled">Temporizador cancelado</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Gostando do Flashlight Pro?</string>
+    <string name="rate_message">Se você acha este aplicativo útil, por favor avalie-o. Isso realmente ajuda!</string>
+    <string name="rate_now">Avaliar agora</string>
+    <string name="rate_later">Mais tarde</string>
+    <string name="rate_never">Não, obrigado</string>
+
+    <!-- Widget -->
+    <string name="widget_description">Toque para ligar ou desligar a lanterna instantaneamente</string>
+    <string name="widget_label">Lanterna</string>
+</resources>

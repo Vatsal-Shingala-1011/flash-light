@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">Badhalka nalka shidaalka</string>
+
+    <!-- Language -->
+    <string name="choose_language">Dooro Luqadda</string>
+    <string name="search_language">Raadi luqadda…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">Caadi</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">Strobe</string>
+    <string name="mode_screen">Shaashadda</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">Rux</string>
+    <string name="status_off">Damisan</string>
+    <string name="status_on">Shidan</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">SAACAD DAMIS OTOMAATIG</string>
+    <string name="timer_off_label">Damisan</string>
+    <string name="timer_1min">1 daqiiqo</string>
+    <string name="timer_5min">5 daqiiqo</string>
+    <string name="timer_15min">15 daqiiqo</string>
+    <string name="timer_custom">Gaaar</string>
+    <string name="timer_remaining">Damis otomaatig: %1$s</string>
+    <string name="custom_timer_title">Deji Saacad Gaar ah</string>
+    <string name="custom_timer_hint">Daqiiqooyin</string>
+    <string name="custom_timer_set">Gaar: %1$d daqiiqo</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">Xawaaraha Strobe</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">Taabo meel kasta si aad u xidho</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">Ruxid baddalid waa la hawlgeliyay!</string>
+    <string name="sos_activated">Habka SOS waa la hawlgeliyay - Diraya calaamad degdeg</string>
+    <string name="strobe_activated">Habka Strobe - Hagaaji xawaaraha hoose</string>
+    <string name="screen_light_info">Habka Nalka Shaashadda - Laba jeer taabo si aad u xidho</string>
+    <string name="flashlight_on">Nalka SHIDAN</string>
+    <string name="flashlight_off">Nalka DAMISAN</string>
+    <string name="timer_set">Saacadda damiska otomaatigga ah la dejiyay: %1$s</string>
+    <string name="timer_cancelled">Saacadda la joojiyay</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Ma ku heshiisay Flashlight Pro?</string>
+    <string name="rate_message">Haddii aad u aragto barnaamijkan inuu faa\'iido leh yahay, fadlan qiimee. Runtii wuu caawiyaa!</string>
+    <string name="rate_now">Qiimee Hadda</string>
+    <string name="rate_later">Dambe</string>
+    <string name="rate_never">Maya, Mahadsanid</string>
+
+    <!-- Widget -->
+    <string name="widget_description">Taabo si aad u beddesho nalka isla markiiba</string>
+    <string name="widget_label">Nalka</string>
+</resources>

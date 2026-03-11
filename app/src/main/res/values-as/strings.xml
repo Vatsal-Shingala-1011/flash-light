@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">ফ্লেছলাইট টগল বুটাম</string>
+
+    <!-- Language -->
+    <string name="choose_language">ভাষা বাছনি কৰক</string>
+    <string name="search_language">ভাষা সন্ধান কৰক…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">সাধাৰণ</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">ষ্ট্ৰব</string>
+    <string name="mode_screen">স্ক্ৰীণ</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">জোকাৰক</string>
+    <string name="status_off">বন্ধ</string>
+    <string name="status_on">চালু</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">স্বয়ংক্ৰিয় বন্ধ টাইমাৰ</string>
+    <string name="timer_off_label">বন্ধ</string>
+    <string name="timer_1min">1 মিনিট</string>
+    <string name="timer_5min">5 মিনিট</string>
+    <string name="timer_15min">15 মিনিট</string>
+    <string name="timer_custom">কাষ্টম</string>
+    <string name="timer_remaining">স্বয়ংক্ৰিয় বন্ধ: %1$s</string>
+    <string name="custom_timer_title">কাষ্টম টাইমাৰ ছেট কৰক</string>
+    <string name="custom_timer_hint">মিনিট</string>
+    <string name="custom_timer_set">কাষ্টম: %1$d মিনিট</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">ষ্ট্ৰব গতি</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">বন্ধ কৰিবলৈ যিকোনো ঠাইত টেপ কৰক</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">টগল কৰিবলৈ জোকাৰণী সক্ৰিয়!</string>
+    <string name="sos_activated">SOS ম\'ড সক্ৰিয় - বিপদ সংকেত প্ৰেৰণ কৰা হৈছে</string>
+    <string name="strobe_activated">ষ্ট্ৰব ম\'ড - তলত গতি সামঞ্জস্য কৰক</string>
+    <string name="screen_light_info">স্ক্ৰীণ লাইট ম\'ড - বন্ধ কৰিবলৈ ডাবল টেপ</string>
+    <string name="flashlight_on">ফ্লেছলাইট চালু</string>
+    <string name="flashlight_off">ফ্লেছলাইট বন্ধ</string>
+    <string name="timer_set">স্বয়ংক্ৰিয় বন্ধ টাইমাৰ ছেট: %1$s</string>
+    <string name="timer_cancelled">টাইমাৰ বাতিল</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Flashlight Pro ভাল লাগিছে?</string>
+    <string name="rate_message">এই এপটো উপযোগী বুলি ভাবিলে, অনুগ্ৰহ কৰি ৰেটিং দিয়ক। ই সঁচাকৈ সহায় কৰে!</string>
+    <string name="rate_now">এতিয়া ৰেট কৰক</string>
+    <string name="rate_later">পিছত</string>
+    <string name="rate_never">নালাগে</string>
+
+    <!-- Widget -->
+    <string name="widget_description">ফ্লেছলাইট তৎক্ষণাত টগল কৰিবলৈ টেপ কৰক</string>
+    <string name="widget_label">ফ্লেছলাইট</string>
+</resources>

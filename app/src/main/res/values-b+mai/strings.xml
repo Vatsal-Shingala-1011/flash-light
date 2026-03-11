@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">फ्लैशलाइट टॉगल बटन</string>
+
+    <!-- Language -->
+    <string name="choose_language">भाषा चुनू</string>
+    <string name="search_language">भाषा खोजू…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">सामान्य</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">स्ट्रोब</string>
+    <string name="mode_screen">स्क्रीन</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">हिलाउ</string>
+    <string name="status_off">बंद</string>
+    <string name="status_on">चालू</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">ऑटो-बंद टाइमर</string>
+    <string name="timer_off_label">बंद</string>
+    <string name="timer_1min">1 मिनट</string>
+    <string name="timer_5min">5 मिनट</string>
+    <string name="timer_15min">15 मिनट</string>
+    <string name="timer_custom">कस्टम</string>
+    <string name="timer_remaining">ऑटो-बंद: %1$s</string>
+    <string name="custom_timer_title">कस्टम टाइमर सेट करू</string>
+    <string name="custom_timer_hint">मिनट</string>
+    <string name="custom_timer_set">कस्टम: %1$d मिनट</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">स्ट्रोब गति</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">बंद करबाक लेल कतहु टैप करू</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">टॉगल करबाक लेल हिलाउ सक्रिय अछि!</string>
+    <string name="sos_activated">SOS मोड सक्रिय - विपत्ति संकेत पठाओल जा रहल अछि</string>
+    <string name="strobe_activated">स्ट्रोब मोड - नीचाँ गति समायोजित करू</string>
+    <string name="screen_light_info">स्क्रीन लाइट मोड - बंद करबाक लेल डबल टैप</string>
+    <string name="flashlight_on">फ्लैशलाइट चालू</string>
+    <string name="flashlight_off">फ्लैशलाइट बंद</string>
+    <string name="timer_set">ऑटो-बंद टाइमर सेट: %1$s</string>
+    <string name="timer_cancelled">टाइमर रद्द</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Flashlight Pro नीक लागि रहल अछि?</string>
+    <string name="rate_message">जँ ई एप्प उपयोगी लागल तँ कृपया रेट करू। ई सचमुच मदद करैत अछि!</string>
+    <string name="rate_now">एखन रेट करू</string>
+    <string name="rate_later">बाद मे</string>
+    <string name="rate_never">नहि धन्यवाद</string>
+
+    <!-- Widget -->
+    <string name="widget_description">फ्लैशलाइट तुरत टॉगल करबाक लेल टैप करू</string>
+    <string name="widget_label">फ्लैशलाइट</string>
+</resources>

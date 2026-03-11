@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">Maballin canza fitila</string>
+
+    <!-- Language -->
+    <string name="choose_language">Zaɓi Harshe</string>
+    <string name="search_language">Nemi harshe…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">Na yau da kullum</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">Strobe</string>
+    <string name="mode_screen">Allo</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">Girgiza</string>
+    <string name="status_off">Kashe</string>
+    <string name="status_on">Kunna</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">AGOGON KASHE KAI TSAYE</string>
+    <string name="timer_off_label">Kashe</string>
+    <string name="timer_1min">Minti 1</string>
+    <string name="timer_5min">Minti 5</string>
+    <string name="timer_15min">Minti 15</string>
+    <string name="timer_custom">Na musamman</string>
+    <string name="timer_remaining">Kashe kai tsaye: %1$s</string>
+    <string name="custom_timer_title">Saita Agogon Musamman</string>
+    <string name="custom_timer_hint">Mintuna</string>
+    <string name="custom_timer_set">Na musamman: Minti %1$d</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">Saurin Strobe</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">Taɓa ko\'ina don rufewa</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">Girgiza don canzawa an kunna!</string>
+    <string name="sos_activated">Yanayin SOS - Ana aika siginar gaggawa</string>
+    <string name="strobe_activated">Yanayin Strobe - Daidaita sauri a ƙasa</string>
+    <string name="screen_light_info">Yanayin Hasken Allo - Taɓa sau biyu don rufewa</string>
+    <string name="flashlight_on">An kunna fitila</string>
+    <string name="flashlight_off">An kashe fitila</string>
+    <string name="timer_set">An saita agogon kashewa: %1$s</string>
+    <string name="timer_cancelled">An soke agogo</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Kuna jin daɗin Flashlight Pro?</string>
+    <string name="rate_message">Idan kun ga wannan manhaja tana da amfani, don Allah ku ƙididdige ta. Yana taimakawa sosai!</string>
+    <string name="rate_now">Ƙididdige Yanzu</string>
+    <string name="rate_later">Daga baya</string>
+    <string name="rate_never">A\'a, Na gode</string>
+
+    <!-- Widget -->
+    <string name="widget_description">Taɓa don canza fitila nan take</string>
+    <string name="widget_label">Fitila</string>
+</resources>

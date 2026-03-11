@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">손전등 토글 버튼</string>
+
+    <!-- Language -->
+    <string name="choose_language">언어 선택</string>
+    <string name="search_language">언어 검색…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">일반</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">스트로브</string>
+    <string name="mode_screen">화면</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">흔들기</string>
+    <string name="status_off">꺼짐</string>
+    <string name="status_on">켜짐</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">자동 꺼짐 타이머</string>
+    <string name="timer_off_label">꺼짐</string>
+    <string name="timer_1min">1분</string>
+    <string name="timer_5min">5분</string>
+    <string name="timer_15min">15분</string>
+    <string name="timer_custom">사용자 지정</string>
+    <string name="timer_remaining">자동 꺼짐: %1$s</string>
+    <string name="custom_timer_title">사용자 지정 타이머 설정</string>
+    <string name="custom_timer_hint">분</string>
+    <string name="custom_timer_set">사용자 지정: %1$d분</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">스트로브 속도</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">아무 곳이나 탭하여 닫기</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">흔들어 전환이 활성화되었습니다!</string>
+    <string name="sos_activated">SOS 모드 활성화 - 조난 신호 전송 중</string>
+    <string name="strobe_activated">스트로브 모드 - 아래에서 속도 조절</string>
+    <string name="screen_light_info">화면 조명 모드 - 두 번 탭하여 닫기</string>
+    <string name="flashlight_on">손전등 켜짐</string>
+    <string name="flashlight_off">손전등 꺼짐</string>
+    <string name="timer_set">자동 꺼짐 타이머 설정: %1$s</string>
+    <string name="timer_cancelled">타이머 취소됨</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Flashlight Pro이 마음에 드시나요?</string>
+    <string name="rate_message">이 앱이 유용하시다면 잠시 시간을 내어 평가해 주세요. 정말 큰 도움이 됩니다!</string>
+    <string name="rate_now">지금 평가</string>
+    <string name="rate_later">나중에</string>
+    <string name="rate_never">괜찮습니다</string>
+
+    <!-- Widget -->
+    <string name="widget_description">탭하여 손전등을 즉시 전환</string>
+    <string name="widget_label">손전등</string>
+</resources>

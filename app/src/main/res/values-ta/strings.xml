@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">ஒளிவிளக்கு நிலைமாற்று பொத்தான்</string>
+
+    <!-- Language -->
+    <string name="choose_language">மொழியை தேர்ந்தெடுக்கவும்</string>
+    <string name="search_language">மொழியைத் தேடுங்கள்…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">சாதாரணம்</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">ஸ்ட்ரோப்</string>
+    <string name="mode_screen">திரை</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">குலுக்கு</string>
+    <string name="status_off">அணைப்பு</string>
+    <string name="status_on">இயக்கம்</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">தானியங்கி அணைப்பு நேரமானி</string>
+    <string name="timer_off_label">அணைப்பு</string>
+    <string name="timer_1min">1 நிமிடம்</string>
+    <string name="timer_5min">5 நிமிடங்கள்</string>
+    <string name="timer_15min">15 நிமிடங்கள்</string>
+    <string name="timer_custom">தனிப்பயன்</string>
+    <string name="timer_remaining">தானியங்கி அணைப்பு: %1$s</string>
+    <string name="custom_timer_title">தனிப்பயன் நேரமானி அமைக்கவும்</string>
+    <string name="custom_timer_hint">நிமிடங்கள்</string>
+    <string name="custom_timer_set">தனிப்பயன்: %1$d நிமிடங்கள்</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">ஸ்ட்ரோப் வேகம்</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">மூட எங்கும் தட்டவும்</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">குலுக்கி மாற்றுவது இயக்கப்பட்டது!</string>
+    <string name="sos_activated">SOS பயன்முறை செயல்படுத்தப்பட்டது - அபாய சிக்னல் அனுப்பப்படுகிறது</string>
+    <string name="strobe_activated">ஸ்ட்ரோப் பயன்முறை - கீழே வேகத்தை சரிசெய்யவும்</string>
+    <string name="screen_light_info">திரை ஒளி பயன்முறை - மூட இரட்டை தட்டவும்</string>
+    <string name="flashlight_on">ஒளிவிளக்கு இயக்கம்</string>
+    <string name="flashlight_off">ஒளிவிளக்கு அணைப்பு</string>
+    <string name="timer_set">தானியங்கி அணைப்பு நேரமானி அமைக்கப்பட்டது: %1$s</string>
+    <string name="timer_cancelled">நேரமானி ரத்துசெய்யப்பட்டது</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Flashlight Pro பிடித்திருக்கிறதா?</string>
+    <string name="rate_message">இந்த செயலி பயனுள்ளதாக இருந்தால், தயவுசெய்து மதிப்பிடுங்கள். இது மிகவும் உதவியாக இருக்கும்!</string>
+    <string name="rate_now">இப்போது மதிப்பிடு</string>
+    <string name="rate_later">பின்னர்</string>
+    <string name="rate_never">வேண்டாம், நன்றி</string>
+
+    <!-- Widget -->
+    <string name="widget_description">ஒளிவிளக்கை உடனடியாக நிலைமாற்ற தட்டவும்</string>
+    <string name="widget_label">ஒளிவிளக்கு</string>
+</resources>

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">फ्लैशलाइट टॉगल बटन</string>
+
+    <!-- Language -->
+    <string name="choose_language">भाषा चुनें</string>
+    <string name="search_language">भाषा खोजें…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">सामान्य</string>
+    <string name="mode_sos">एसओएस</string>
+    <string name="sos_label">⚠ एसओएस</string>
+    <string name="mode_strobe">स्ट्रोब</string>
+    <string name="mode_screen">स्क्रीन</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">हिलाएं</string>
+    <string name="status_off">बंद</string>
+    <string name="status_on">चालू</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">ऑटो-ऑफ टाइमर</string>
+    <string name="timer_off_label">बंद</string>
+    <string name="timer_1min">1 मिनट</string>
+    <string name="timer_5min">5 मिनट</string>
+    <string name="timer_15min">15 मिनट</string>
+    <string name="timer_custom">कस्टम</string>
+    <string name="timer_remaining">ऑटो-ऑफ: %1$s</string>
+    <string name="custom_timer_title">कस्टम टाइमर सेट करें</string>
+    <string name="custom_timer_hint">मिनट</string>
+    <string name="custom_timer_set">कस्टम: %1$d मिनट</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">स्ट्रोब गति</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">बंद करने के लिए कहीं भी टैप करें</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">हिलाकर टॉगल सक्षम है!</string>
+    <string name="sos_activated">एसओएस मोड सक्रिय - संकट संकेत भेज रहा है</string>
+    <string name="strobe_activated">स्ट्रोब मोड - नीचे गति समायोजित करें</string>
+    <string name="screen_light_info">स्क्रीन लाइट मोड - बंद करने के लिए डबल टैप करें</string>
+    <string name="flashlight_on">फ्लैशलाइट चालू</string>
+    <string name="flashlight_off">फ्लैशलाइट बंद</string>
+    <string name="timer_set">ऑटो-ऑफ टाइमर सेट: %1$s</string>
+    <string name="timer_cancelled">टाइमर रद्द</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Flashlight Pro पसंद आ रहा है?</string>
+    <string name="rate_message">अगर आपको यह ऐप उपयोगी लगता है, तो कृपया इसे रेटिंग दें। इससे बहुत मदद मिलती है!</string>
+    <string name="rate_now">अभी रेट करें</string>
+    <string name="rate_later">बाद में</string>
+    <string name="rate_never">नहीं धन्यवाद</string>
+
+    <!-- Widget -->
+    <string name="widget_description">फ्लैशलाइट तुरंत टॉगल करने के लिए टैप करें</string>
+    <string name="widget_label">फ्लैशलाइट</string>
+</resources>

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">Tombol sakelar senter</string>
+
+    <!-- Language -->
+    <string name="choose_language">Pilih bahasa</string>
+    <string name="search_language">Cari bahasa…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">Normal</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">Strobo</string>
+    <string name="mode_screen">Layar</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">Goyangkan</string>
+    <string name="status_off">Mati</string>
+    <string name="status_on">Hidup</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">TIMER MATI OTOMATIS</string>
+    <string name="timer_off_label">Mati</string>
+    <string name="timer_1min">1 menit</string>
+    <string name="timer_5min">5 menit</string>
+    <string name="timer_15min">15 menit</string>
+    <string name="timer_custom">Kustom</string>
+    <string name="timer_remaining">Mati otomatis: %1$s</string>
+    <string name="custom_timer_title">Atur timer kustom</string>
+    <string name="custom_timer_hint">Menit</string>
+    <string name="custom_timer_set">Kustom: %1$d menit</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">Kecepatan strobo</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">Ketuk di mana saja untuk menutup</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">Goyangkan untuk beralih telah diaktifkan!</string>
+    <string name="sos_activated">Mode SOS diaktifkan - Mengirim sinyal darurat</string>
+    <string name="strobe_activated">Mode Strobo - Sesuaikan kecepatan di bawah</string>
+    <string name="screen_light_info">Mode Cahaya Layar - Ketuk dua kali untuk menutup</string>
+    <string name="flashlight_on">Senter hidup</string>
+    <string name="flashlight_off">Senter mati</string>
+    <string name="timer_set">Timer mati otomatis diatur: %1$s</string>
+    <string name="timer_cancelled">Timer dibatalkan</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Suka Flashlight Pro?</string>
+    <string name="rate_message">Jika Anda merasa aplikasi ini berguna, mohon luangkan waktu untuk memberi penilaian. Ini sangat membantu!</string>
+    <string name="rate_now">Nilai sekarang</string>
+    <string name="rate_later">Nanti</string>
+    <string name="rate_never">Tidak, terima kasih</string>
+
+    <!-- Widget -->
+    <string name="widget_description">Ketuk untuk menyalakan atau mematikan senter secara instan</string>
+    <string name="widget_label">Senter</string>
+</resources>

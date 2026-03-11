@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">فليش لائيٽ ٽوگل بٽڻ</string>
+
+    <!-- Language -->
+    <string name="choose_language">ٻولي چونڊيو</string>
+    <string name="search_language">ٻولي ڳوليو…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">عام</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">اسٽروب</string>
+    <string name="mode_screen">اسڪرين</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">ڇڪيو</string>
+    <string name="status_off">بند</string>
+    <string name="status_on">آن</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">خودڪار بند ٽائمر</string>
+    <string name="timer_off_label">بند</string>
+    <string name="timer_1min">1 منٽ</string>
+    <string name="timer_5min">5 منٽ</string>
+    <string name="timer_15min">15 منٽ</string>
+    <string name="timer_custom">ڪسٽم</string>
+    <string name="timer_remaining">خودڪار بند: %1$s</string>
+    <string name="custom_timer_title">ڪسٽم ٽائمر سيٽ ڪريو</string>
+    <string name="custom_timer_hint">منٽ</string>
+    <string name="custom_timer_set">ڪسٽم: %1$d منٽ</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">اسٽروب رفتار</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">بند ڪرڻ لاءِ ڪٿي به ٽيپ ڪريو</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">ٽوگل ڪرڻ لاءِ ڇڪيو فعال آهي!</string>
+    <string name="sos_activated">SOS موڊ فعال - خطري جو اشارو موڪلي رهيو آهي</string>
+    <string name="strobe_activated">اسٽروب موڊ - هيٺ رفتار ترتيب ڏيو</string>
+    <string name="screen_light_info">اسڪرين لائيٽ موڊ - بند ڪرڻ لاءِ ڊبل ٽيپ</string>
+    <string name="flashlight_on">فليش لائيٽ آن</string>
+    <string name="flashlight_off">فليش لائيٽ بند</string>
+    <string name="timer_set">خودڪار بند ٽائمر سيٽ: %1$s</string>
+    <string name="timer_cancelled">ٽائمر رد ٿيو</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Flashlight Pro پسند اچي رهيو آهي؟</string>
+    <string name="rate_message">جيڪڏهن توهان هن ايپ کي ڪارآمد ٿي سمجهو ته مهرباني ڪري ريٽ ڪريو. اهو واقعي مدد ڪندو!</string>
+    <string name="rate_now">هاڻي ريٽ ڪريو</string>
+    <string name="rate_later">بعد ۾</string>
+    <string name="rate_never">نه مهرباني</string>
+
+    <!-- Widget -->
+    <string name="widget_description">فليش لائيٽ فوري ٽوگل ڪرڻ لاءِ ٽيپ ڪريو</string>
+    <string name="widget_label">فليش لائيٽ</string>
+</resources>

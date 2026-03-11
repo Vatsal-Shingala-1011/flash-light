@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">दीपयन्त्रं परिवर्तनबटनम्</string>
+
+    <!-- Language -->
+    <string name="choose_language">भाषां चिनुत</string>
+    <string name="search_language">भाषां अन्विष्यतु…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">सामान्यम्</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">स्ट्रोबः</string>
+    <string name="mode_screen">पटलम्</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">कम्पयतु</string>
+    <string name="status_off">निवृत्तम्</string>
+    <string name="status_on">प्रवृत्तम्</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">स्वयं-निवृत्ति समयमापकम्</string>
+    <string name="timer_off_label">निवृत्तम्</string>
+    <string name="timer_1min">1 निमेषः</string>
+    <string name="timer_5min">5 निमेषाः</string>
+    <string name="timer_15min">15 निमेषाः</string>
+    <string name="timer_custom">विशिष्टम्</string>
+    <string name="timer_remaining">स्वयं-निवृत्तिः: %1$s</string>
+    <string name="custom_timer_title">विशिष्टं समयमापकं स्थापयतु</string>
+    <string name="custom_timer_hint">निमेषाः</string>
+    <string name="custom_timer_set">विशिष्टम्: %1$d निमेषाः</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">स्ट्रोब वेगः</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">पिधानाय क्वचिदपि स्पृशतु</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">परिवर्तनाय कम्पनं सक्रियम्!</string>
+    <string name="sos_activated">SOS प्रणाली सक्रिया - आपत्सङ्केतः प्रेष्यते</string>
+    <string name="strobe_activated">स्ट्रोब प्रणाली - अधः वेगं समायोजयतु</string>
+    <string name="screen_light_info">पटलदीपप्रणाली - पिधानाय द्विस्पर्शः</string>
+    <string name="flashlight_on">दीपयन्त्रं प्रवृत्तम्</string>
+    <string name="flashlight_off">दीपयन्त्रं निवृत्तम्</string>
+    <string name="timer_set">स्वयं-निवृत्ति समयमापकं स्थापितम्: %1$s</string>
+    <string name="timer_cancelled">समयमापकं निरस्तम्</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Flashlight Pro रोचते वा?</string>
+    <string name="rate_message">यदि एतत् अनुप्रयोगम् उपयोगि मन्यते, कृपया मूल्याङ्कनं करोतु। एतत् साहाय्यकरम् अस्ति!</string>
+    <string name="rate_now">अधुना मूल्याङ्कयतु</string>
+    <string name="rate_later">पश्चात्</string>
+    <string name="rate_never">न धन्यवादः</string>
+
+    <!-- Widget -->
+    <string name="widget_description">दीपयन्त्रं तत्क्षणं परिवर्तयितुं स्पृशतु</string>
+    <string name="widget_label">दीपयन्त्रम्</string>
+</resources>

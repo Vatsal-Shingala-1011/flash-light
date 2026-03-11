@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">懐中電灯切り替えボタン</string>
+
+    <!-- Language -->
+    <string name="choose_language">言語を選択</string>
+    <string name="search_language">言語を検索…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">通常</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">ストロボ</string>
+    <string name="mode_screen">画面</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">振る</string>
+    <string name="status_off">オフ</string>
+    <string name="status_on">オン</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">自動オフタイマー</string>
+    <string name="timer_off_label">オフ</string>
+    <string name="timer_1min">1分</string>
+    <string name="timer_5min">5分</string>
+    <string name="timer_15min">15分</string>
+    <string name="timer_custom">カスタム</string>
+    <string name="timer_remaining">自動オフ: %1$s</string>
+    <string name="custom_timer_title">カスタムタイマーを設定</string>
+    <string name="custom_timer_hint">分</string>
+    <string name="custom_timer_set">カスタム: %1$d分</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">ストロボ速度</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">どこかをタップして閉じる</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">振って切り替えが有効です！</string>
+    <string name="sos_activated">SOSモード起動 - 遭難信号を送信中</string>
+    <string name="strobe_activated">ストロボモード - 下で速度を調整</string>
+    <string name="screen_light_info">画面ライトモード - ダブルタップで閉じる</string>
+    <string name="flashlight_on">ライト オン</string>
+    <string name="flashlight_off">ライト オフ</string>
+    <string name="timer_set">自動オフタイマー設定: %1$s</string>
+    <string name="timer_cancelled">タイマーキャンセル</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Flashlight Proをお楽しみですか？</string>
+    <string name="rate_message">このアプリが役に立つと思ったら、ぜひ評価してください。とても助かります！</string>
+    <string name="rate_now">今すぐ評価</string>
+    <string name="rate_later">後で</string>
+    <string name="rate_never">いいえ</string>
+
+    <!-- Widget -->
+    <string name="widget_description">タップして懐中電灯を即座に切り替え</string>
+    <string name="widget_label">懐中電灯</string>
+</resources>

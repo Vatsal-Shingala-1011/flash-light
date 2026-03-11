@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">زر تشغيل/إيقاف الكشاف</string>
+
+    <!-- Language -->
+    <string name="choose_language">اختر اللغة</string>
+    <string name="search_language">ابحث عن لغة…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">عادي</string>
+    <string name="mode_sos">استغاثة</string>
+    <string name="sos_label">⚠ استغاثة</string>
+    <string name="mode_strobe">وميض</string>
+    <string name="mode_screen">شاشة</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">هز</string>
+    <string name="status_off">إيقاف</string>
+    <string name="status_on">تشغيل</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">مؤقت الإيقاف التلقائي</string>
+    <string name="timer_off_label">إيقاف</string>
+    <string name="timer_1min">1 دقيقة</string>
+    <string name="timer_5min">5 دقائق</string>
+    <string name="timer_15min">15 دقيقة</string>
+    <string name="timer_custom">مخصص</string>
+    <string name="timer_remaining">إيقاف تلقائي: %1$s</string>
+    <string name="custom_timer_title">تعيين مؤقت مخصص</string>
+    <string name="custom_timer_hint">دقائق</string>
+    <string name="custom_timer_set">مخصص: %1$d دقيقة</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">سرعة الوميض</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">انقر في أي مكان للإغلاق</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">تم تفعيل التبديل بالهز!</string>
+    <string name="sos_activated">وضع الاستغاثة مفعّل - جارٍ إرسال إشارة الاستغاثة</string>
+    <string name="strobe_activated">وضع الوميض - اضبط السرعة أدناه</string>
+    <string name="screen_light_info">وضع إضاءة الشاشة - انقر مرتين للإغلاق</string>
+    <string name="flashlight_on">الكشاف مشغّل</string>
+    <string name="flashlight_off">الكشاف مطفأ</string>
+    <string name="timer_set">تم تعيين مؤقت الإيقاف التلقائي: %1$s</string>
+    <string name="timer_cancelled">تم إلغاء المؤقت</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">هل تستمتع بـ Flashlight Pro؟</string>
+    <string name="rate_message">إذا وجدت هذا التطبيق مفيدًا، يرجى تخصيص لحظة لتقييمه. هذا يساعد حقًا!</string>
+    <string name="rate_now">قيّم الآن</string>
+    <string name="rate_later">لاحقًا</string>
+    <string name="rate_never">لا شكرًا</string>
+
+    <!-- Widget -->
+    <string name="widget_description">انقر لتشغيل أو إيقاف الكشاف فورًا</string>
+    <string name="widget_label">كشاف</string>
+</resources>

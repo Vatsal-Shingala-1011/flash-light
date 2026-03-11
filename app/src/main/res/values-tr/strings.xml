@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">El feneri açma/kapama düğmesi</string>
+
+    <!-- Language -->
+    <string name="choose_language">Dil seçin</string>
+    <string name="search_language">Dil ara…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">Normal</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">Stroboskop</string>
+    <string name="mode_screen">Ekran</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">Salla</string>
+    <string name="status_off">Kapalı</string>
+    <string name="status_on">Açık</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">OTOMATİK KAPANMA ZAMANLAYICISI</string>
+    <string name="timer_off_label">Kapalı</string>
+    <string name="timer_1min">1 dk</string>
+    <string name="timer_5min">5 dk</string>
+    <string name="timer_15min">15 dk</string>
+    <string name="timer_custom">Özel</string>
+    <string name="timer_remaining">Otomatik kapanma: %1$s</string>
+    <string name="custom_timer_title">Özel zamanlayıcı ayarla</string>
+    <string name="custom_timer_hint">Dakika</string>
+    <string name="custom_timer_set">Özel: %1$d dk</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">Stroboskop hızı</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">Kapatmak için herhangi bir yere dokunun</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">Sallayarak geçiş etkinleştirildi!</string>
+    <string name="sos_activated">SOS Modu Etkinleştirildi - İmdat sinyali gönderiliyor</string>
+    <string name="strobe_activated">Stroboskop Modu - Hızı aşağıdan ayarlayın</string>
+    <string name="screen_light_info">Ekran Işığı Modu - Kapatmak için çift dokunun</string>
+    <string name="flashlight_on">El feneri açık</string>
+    <string name="flashlight_off">El feneri kapalı</string>
+    <string name="timer_set">Otomatik kapanma zamanlayıcısı ayarlandı: %1$s</string>
+    <string name="timer_cancelled">Zamanlayıcı iptal edildi</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Flashlight Pro\'yu beğeniyor musunuz?</string>
+    <string name="rate_message">Bu uygulamayı faydalı buluyorsanız, lütfen bir an ayırıp değerlendirin. Gerçekten çok yardımcı olur!</string>
+    <string name="rate_now">Şimdi değerlendir</string>
+    <string name="rate_later">Daha sonra</string>
+    <string name="rate_never">Hayır, teşekkürler</string>
+
+    <!-- Widget -->
+    <string name="widget_description">El fenerini anında açıp kapatmak için dokunun</string>
+    <string name="widget_label">El Feneri</string>
+</resources>

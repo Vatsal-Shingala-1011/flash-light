@@ -29,10 +29,16 @@ import android.view.animation.OvershootInterpolator
 import android.widget.SeekBar
 import android.widget.TextView
 import android.text.InputType
+import android.text.Editable
+import android.text.TextWatcher
+import android.widget.ArrayAdapter
 import android.widget.EditText
 import android.widget.LinearLayout
+import android.widget.ListView
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatDelegate
+import androidx.core.os.LocaleListCompat
 import androidx.core.view.WindowCompat
 import androidx.dynamicanimation.animation.SpringAnimation
 import androidx.dynamicanimation.animation.SpringForce
@@ -40,6 +46,7 @@ import com.getkeepsafe.taptargetview.TapTarget
 import com.getkeepsafe.taptargetview.TapTargetView
 import com.google.android.material.snackbar.Snackbar
 import com.vatsal.flashlightmine.databinding.ActivityMainBinding
+import java.util.Locale
 import kotlin.math.sqrt
 
 class MainActivity : AppCompatActivity() {
@@ -103,6 +110,7 @@ class MainActivity : AppCompatActivity() {
         private const val KEY_RATED = "hasRated"
         private const val KEY_DARK_MODE = "isDarkMode"
         private const val KEY_SHAKE_ENABLED = "isShakeEnabled"
+        private const val KEY_LANGUAGE_SELECTED = "languageSelected"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -140,6 +148,8 @@ class MainActivity : AppCompatActivity() {
         setupBatteryMonitor()
         setupThemeToggle()
         setupShakeToggle()
+        setupLanguageToggle()
+        showLanguagePickerIfFirstLaunch()
         showTutorialIfFirstLaunch()
 
         // Apply saved theme
@@ -195,6 +205,7 @@ class MainActivity : AppCompatActivity() {
             binding.sosButton,
             binding.batteryContainer,
             binding.themeToggle,
+            binding.languageToggle,
             binding.modeLabel,
             binding.lightBulb,
             binding.timerSection,
@@ -286,6 +297,7 @@ class MainActivity : AppCompatActivity() {
             binding.batteryContainer.setBackgroundResource(R.drawable.bg_battery_indicator)
             binding.themeToggle.setBackgroundResource(R.drawable.bg_theme_toggle)
             binding.shakeToggle.setBackgroundResource(R.drawable.bg_theme_toggle)
+            binding.languageToggle.setBackgroundResource(R.drawable.bg_theme_toggle)
             binding.glowRing.setBackgroundResource(R.drawable.bg_glow_ring)
 
             // Text colors
@@ -326,6 +338,7 @@ class MainActivity : AppCompatActivity() {
             binding.batteryContainer.setBackgroundResource(R.drawable.bg_battery_indicator_light)
             binding.themeToggle.setBackgroundResource(R.drawable.bg_theme_toggle_light)
             binding.shakeToggle.setBackgroundResource(R.drawable.bg_theme_toggle_light)
+            binding.languageToggle.setBackgroundResource(R.drawable.bg_theme_toggle_light)
             binding.glowRing.setBackgroundResource(R.drawable.bg_glow_ring_light)
 
             // Text colors
@@ -781,10 +794,10 @@ class MainActivity : AppCompatActivity() {
             .setView(container)
             .setPositiveButton(android.R.string.ok) { _, _ ->
                 val minutes = input.text.toString().toIntOrNull()
-                if (minutes != null && minutes in 1..6969) {
+                if (minutes != null && minutes >= 1) {
                     selectTimer(minutes)
                 } else {
-                    Snackbar.make(binding.root, "Enter 1–120 minutes", Snackbar.LENGTH_SHORT).show()
+                    Snackbar.make(binding.root, "Enter a valid number of minutes", Snackbar.LENGTH_SHORT).show()
                 }
             }
             .setNegativeButton(android.R.string.cancel, null)
@@ -1040,6 +1053,204 @@ class MainActivity : AppCompatActivity() {
         sensorManager?.registerListener(
             shakeListener, accelerometer, android.hardware.SensorManager.SENSOR_DELAY_UI
         )
+    }
+
+    // ─── LANGUAGE SELECTION ──────────────────────────────────────
+    private fun setupLanguageToggle() {
+        binding.languageToggle.setOnClickListener {
+            vibrateClick()
+            showLanguagePicker()
+        }
+    }
+
+    private fun showLanguagePickerIfFirstLaunch() {
+        val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+        val languageSelected = prefs.getBoolean(KEY_LANGUAGE_SELECTED, false)
+        if (!languageSelected) {
+            showLanguagePicker(isFirstLaunch = true)
+        }
+    }
+
+    private fun showLanguagePicker(isFirstLaunch: Boolean = false) {
+        // 80 supported languages: Indian + global, sorted alphabetically
+        val allCodes = arrayOf(
+            "af","sq","am","ar","hy","as","az","eu","be","bn",
+            "bs","zh","hr","cy","doi","nl","en","et","fr",
+            "gl","ka","de","gu","ha","hi","is","in","ga",
+            "it","ja","jv","kn","ks","km","ko","kok","ky","lo",
+            "lb","lt","lv","mg","mai","ms","ml","mt","mi","mr",
+            "mk","mn","my","ne","or","fa","pl","pt","pa","ro","ru",
+            "sa","sd","sr","si","sk","sl","so","es","sw","tg",
+            "ta","te","th","tr","uk","ur","uz","vi","xh","yo","zu"
+        )
+        val allNames = arrayOf(
+            "Afrikaans",
+            "Shqip — Albanian",
+            "አማርኛ — Amharic",
+            "العربية — Arabic",
+            "Հայերեն — Armenian",
+            "অসমীয়া — Assamese",
+            "Azərbaycan — Azerbaijani",
+            "Euskara — Basque",
+            "Беларуская — Belarusian",
+            "বাংলা — Bengali",
+            "Bosanski — Bosnian",
+            "中文 — Chinese",
+            "Hrvatski — Croatian",
+            "Cymraeg — Welsh",
+            "डोगरी — Dogri",
+            "Nederlands — Dutch",
+            "English",
+            "Eesti — Estonian",
+            "Français — French",
+            "Galego — Galician",
+            "ქართული — Georgian",
+            "Deutsch — German",
+            "ગુજરાતી — Gujarati",
+            "Hausa",
+            "हिन्दी — Hindi",
+            "Íslenska — Icelandic",
+            "Bahasa Indonesia",
+            "Gaeilge — Irish",
+            "Italiano — Italian",
+            "日本語 — Japanese",
+            "Basa Jawa — Javanese",
+            "ಕನ್ನಡ — Kannada",
+            "कॉशुर — Kashmiri",
+            "ខ្មែរ — Khmer",
+            "한국어 — Korean",
+            "कोंकणी — Konkani",
+            "Кыргызча — Kyrgyz",
+            "ລາວ — Lao",
+            "Lëtzebuergesch — Luxembourgish",
+            "Lietuvių — Lithuanian",
+            "Latviešu — Latvian",
+            "Malagasy",
+            "मैथिली — Maithili",
+            "Bahasa Melayu — Malay",
+            "മലയാളം — Malayalam",
+            "Malti — Maltese",
+            "Te Reo Māori — Maori",
+            "मराठी — Marathi",
+            "Македонски — Macedonian",
+            "Монгол — Mongolian",
+            "မြန်မာ — Myanmar",
+            "नेपाली — Nepali",
+            "ଓଡ଼ିଆ — Odia",
+            "فارسی — Persian",
+            "Polski — Polish",
+            "Português — Portuguese",
+            "ਪੰਜਾਬੀ — Punjabi",
+            "Română — Romanian",
+            "Русский — Russian",
+            "संस्कृतम् — Sanskrit",
+            "سنڌي — Sindhi",
+            "Српски — Serbian",
+            "සිංහල — Sinhala",
+            "Slovenčina — Slovak",
+            "Slovenščina — Slovenian",
+            "Af Soomaali — Somali",
+            "Español — Spanish",
+            "Kiswahili — Swahili",
+            "Тоҷикӣ — Tajik",
+            "தமிழ் — Tamil",
+            "తెలుగు — Telugu",
+            "ไทย — Thai",
+            "Türkçe — Turkish",
+            "Українська — Ukrainian",
+            "اردو — Urdu",
+            "Oʻzbek — Uzbek",
+            "Tiếng Việt — Vietnamese",
+            "isiXhosa — Xhosa",
+            "Yorùbá — Yoruba",
+            "isiZulu — Zulu"
+        )
+
+        val currentLocale = AppCompatDelegate.getApplicationLocales()
+        val currentCode = if (currentLocale.isEmpty) "en" else currentLocale.get(0)?.language ?: "en"
+
+        val filteredIndices = mutableListOf<Int>()
+
+        val container = LinearLayout(this).apply {
+            orientation = LinearLayout.VERTICAL
+            setPadding(32, 24, 32, 0)
+        }
+
+        val searchEdit = EditText(this).apply {
+            hint = getString(R.string.search_language)
+            inputType = InputType.TYPE_CLASS_TEXT
+            setPadding(24, 24, 24, 24)
+        }
+        container.addView(searchEdit)
+
+        val listView = ListView(this).apply {
+            setPadding(0, 16, 0, 0)
+        }
+        container.addView(listView, LinearLayout.LayoutParams(
+            LinearLayout.LayoutParams.MATCH_PARENT,
+            (resources.displayMetrics.density * 350).toInt()
+        ))
+
+        val adapter = ArrayAdapter(this, android.R.layout.simple_list_item_single_choice, mutableListOf<String>())
+        listView.adapter = adapter
+        listView.choiceMode = ListView.CHOICE_MODE_SINGLE
+
+        // Populate initially
+        for (i in allCodes.indices) {
+            filteredIndices.add(i)
+            adapter.add(allNames[i])
+        }
+
+        // Set current selection
+        val codeIdx = allCodes.indexOf(currentCode)
+        val currentFilteredIdx = filteredIndices.indexOf(codeIdx)
+        if (currentFilteredIdx >= 0) {
+            listView.setItemChecked(currentFilteredIdx, true)
+            listView.post { listView.setSelection(currentFilteredIdx) }
+        }
+
+        searchEdit.addTextChangedListener(object : TextWatcher {
+            override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) {}
+            override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {}
+            override fun afterTextChanged(s: Editable?) {
+                val q = s?.toString()?.lowercase() ?: ""
+                filteredIndices.clear()
+                adapter.clear()
+                for (i in allCodes.indices) {
+                    if (q.isEmpty() || allNames[i].lowercase().contains(q) || allCodes[i].contains(q)) {
+                        filteredIndices.add(i)
+                        adapter.add(allNames[i])
+                    }
+                }
+                adapter.notifyDataSetChanged()
+                val newCurrentIdx = filteredIndices.indexOf(allCodes.indexOf(currentCode))
+                if (newCurrentIdx >= 0) {
+                    listView.setItemChecked(newCurrentIdx, true)
+                }
+            }
+        })
+
+        val dialog = AlertDialog.Builder(this, com.google.android.material.R.style.ThemeOverlay_Material3_MaterialAlertDialog)
+            .setTitle(getString(R.string.choose_language))
+            .setView(container)
+            .apply {
+                if (!isFirstLaunch) {
+                    setNegativeButton(android.R.string.cancel, null)
+                }
+            }
+            .setCancelable(!isFirstLaunch)
+            .create()
+
+        listView.setOnItemClickListener { _, _, position, _ ->
+            val selectedCode = allCodes[filteredIndices[position]]
+            val appLocale = LocaleListCompat.forLanguageTags(selectedCode)
+            AppCompatDelegate.setApplicationLocales(appLocale)
+            getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+                .edit().putBoolean(KEY_LANGUAGE_SELECTED, true).apply()
+            dialog.dismiss()
+        }
+
+        dialog.show()
     }
 
     // ─── TUTORIAL ─────────────────────────────────────────────────

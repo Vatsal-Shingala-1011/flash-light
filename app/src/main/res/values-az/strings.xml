@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Flashlight Pro</string>
+    <string name="flashlight_bulb">Fənər keçid düyməsi</string>
+
+    <!-- Language -->
+    <string name="choose_language">Dil seçin</string>
+    <string name="search_language">Dil axtar…</string>
+
+    <!-- Mode labels -->
+    <string name="mode_normal">Normal</string>
+    <string name="mode_sos">SOS</string>
+    <string name="sos_label">⚠ SOS</string>
+    <string name="mode_strobe">Strob</string>
+    <string name="mode_screen">Ekran</string>
+
+    <!-- Shake / Status -->
+    <string name="shake">Silkələ</string>
+    <string name="status_off">Söndür</string>
+    <string name="status_on">Yandır</string>
+
+    <!-- Timer -->
+    <string name="auto_off_timer">AVTO-SÖNDÜRMƏ TAYMERİ</string>
+    <string name="timer_off_label">Söndür</string>
+    <string name="timer_1min">1 dəq</string>
+    <string name="timer_5min">5 dəq</string>
+    <string name="timer_15min">15 dəq</string>
+    <string name="timer_custom">Xüsusi</string>
+    <string name="timer_remaining">Avto-söndürmə: %1$s</string>
+    <string name="custom_timer_title">Xüsusi Taymer Qurun</string>
+    <string name="custom_timer_hint">Dəqiqə</string>
+    <string name="custom_timer_set">Xüsusi: %1$d dəq</string>
+
+    <!-- Strobe -->
+    <string name="strobe_speed">Strob Sürəti</string>
+
+    <!-- Screen Light -->
+    <string name="tap_to_close">Bağlamaq üçün hər yerə toxunun</string>
+
+    <!-- Snackbar messages -->
+    <string name="shake_enabled">Keçid üçün silkələmə aktivdir!</string>
+    <string name="sos_activated">SOS Rejimi Aktivdir - Təhlükə siqnalı göndərilir</string>
+    <string name="strobe_activated">Strob Rejimi - Aşağıda sürəti tənzimləyin</string>
+    <string name="screen_light_info">Ekran İşığı Rejimi - Bağlamaq üçün iki dəfə toxunun</string>
+    <string name="flashlight_on">Fənər YANDIR</string>
+    <string name="flashlight_off">Fənər SÖNDÜR</string>
+    <string name="timer_set">Avto-söndürmə taymeri quruldu: %1$s</string>
+    <string name="timer_cancelled">Taymer ləğv edildi</string>
+
+    <!-- Rate dialog -->
+    <string name="rate_title">Flashlight Pro xoşunuza gəlir?</string>
+    <string name="rate_message">Bu tətbiqi faydalı hesab edirsinizsə, lütfən dəyərləndirin. Bu həqiqətən kömək edir!</string>
+    <string name="rate_now">İndi Dəyərləndir</string>
+    <string name="rate_later">Sonra</string>
+    <string name="rate_never">Xeyr, Təşəkkürlər</string>
+
+    <!-- Widget -->
+    <string name="widget_description">Fənəri dərhal keçirmək üçün toxunun</string>
+    <string name="widget_label">Fənər</string>
+</resources>
