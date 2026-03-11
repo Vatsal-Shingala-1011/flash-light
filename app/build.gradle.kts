@@ -5,14 +5,23 @@ plugins {
 
 android {
     namespace = "com.vatsal.flashlightmine"
-    compileSdk = 34
+    compileSdk = 35
+
+    signingConfigs {
+        create("release") {
+            storeFile = file("../flashlight-release.jks")
+            storePassword = "Flashlight@123"
+            keyAlias = "flashlight"
+            keyPassword = "Flashlight@123"
+        }
+    }
 
     defaultConfig {
         applicationId = "com.vatsal.flashlightmine"
         minSdk = 24
-        targetSdk = 34
-        versionCode = 2
-        versionName = "1.1"
+        targetSdk = 35
+        versionCode = 3
+        versionName = "1.2"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -21,6 +30,7 @@ android {
         release {
             isMinifyEnabled = true
             isShrinkResources = true
+            signingConfig = signingConfigs.getByName("release")
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"

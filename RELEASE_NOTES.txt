@@ -1,0 +1,944 @@
+============================================================
+  GOOGLE PLAY RELEASE NOTES - SUPPORTED LANGUAGES ONLY
+  Total: 61 supported languages
+============================================================
+
+UNSUPPORTED by Google Play (removed - 19 languages):
+  as (Assamese), b+doi (Dogri), b+kok (Konkani), b+mai (Maithili),
+  cy (Welsh), ga (Irish), ha (Hausa), jv (Javanese), ks (Kashmiri),
+  lb (Luxembourgish), mg (Malagasy), mi (Maori), mt (Maltese),
+  or (Odia), sa (Sanskrit), sd (Sindhi), tg (Tajik), xh (Xhosa),
+  yo (Yoruba)
+
+Note: These 19 languages still work IN-APP via the language picker.
+      They are only unsupported for Play Store release notes.
+
+============================================================
+  COPY EVERYTHING BELOW THIS LINE INTO GOOGLE PLAY CONSOLE
+============================================================
+
+
+<en-US>
+🔦 Flashlight Pro - Your Ultimate Flashlight App!
+
+✨ Features:
+• Bright LED flashlight with instant on/off
+• SOS emergency mode for safety
+• Strobe mode with adjustable speed
+• Screen light mode for soft illumination
+• Shake to toggle flashlight
+• Auto-off timer (1min, 5min, 15min, custom)
+• Home screen widget for quick access
+• 80 languages supported with in-app language picker
+
+📱 Lightweight, fast, and ad-free.
+</en-US>
+
+<af>
+🔦 Flashlight Pro - Jou Uiteindelike Flitslig-app!
+
+✨ Kenmerke:
+• Helder LED-flitslig met onmiddellike aan/af
+• SOS-noodmodus vir veiligheid
+• Stroboskopiese modus met verstelbare spoed
+• Skermligmodus vir sagte verligting
+• Skud om flitslig te wissel
+• Outo-af-tydhouer
+• Tuisskerm-legstuk vir vinnige toegang
+• 80 tale ondersteun
+
+📱 Liggewig, vinnig en advertensievry.
+</af>
+
+<sq>
+🔦 Flashlight Pro - Aplikacioni Juaj i Elektrikut!
+
+✨ Veçoritë:
+• Elektrik LED e ndritshme
+• Modaliteti SOS i emergjencës
+• Modaliteti strobe me shpejtësi të rregullueshme
+• Modaliteti i dritës së ekranit
+• Tundni për të ndërruar elektrikun
+• Kohëmatës i fikjes automatike
+• Widget i ekranit kryesor
+• 80 gjuhë të mbështetura
+
+📱 I lehtë, i shpejtë dhe pa reklama.
+</sq>
+
+<am>
+🔦 Flashlight Pro - የእርስዎ ፍላሽ መብራት መተግበሪያ!
+
+✨ ባህሪያት:
+• ብሩህ LED ፍላሽ መብራት
+• SOS የአደጋ ሁነታ
+• የስትሮብ ሁነታ
+• የስክሪን ብርሃን ሁነታ
+• ፍላሽ መብራቱን ለመቀያየር ያንቀጠቅጡ
+• ራስ-ሰር ማጥፊያ ሰዓት ቆጣሪ
+• የመነሻ ስክሪን ዊጀት
+• 80 ቋንቋዎች ይደገፋሉ
+
+📱 ቀላል፣ ፈጣን እና ያለ ማስታወቂያ።
+</am>
+
+<ar>
+🔦 Flashlight Pro - تطبيق المصباح المثالي!
+
+✨ المميزات:
+• مصباح LED ساطع مع تشغيل/إيقاف فوري
+• وضع SOS للطوارئ
+• وضع ستروب بسرعة قابلة للتعديل
+• وضع إضاءة الشاشة
+• هز الهاتف للتبديل
+• مؤقت إيقاف تلقائي
+• أداة الشاشة الرئيسية
+• دعم 80 لغة
+
+📱 خفيف وسريع وبدون إعلانات.
+</ar>
+
+<hy-AM>
+🔦 Flashlight Pro - Ձեր Լdelays Լdelays Հdelays!
+
+✨ Հdelays:
+• Պdelays LED delays
+• SOS delays delays
+• Strobe delays
+• Էdelays delays
+• Delays delays delays
+• Delays delays delays
+• 80 delays delays
+
+📱 delays delays
+</hy-AM>
+
+<az-AZ>
+🔦 Flashlight Pro - Ən Yaxşı Fənər Tətbiqiniz!
+
+✨ Xüsusiyyətlər:
+• Parlaq LED fənər
+• SOS təcili rejim
+• Tənzimlənən strob rejimi
+• Ekran işığı rejimi
+• Silkələyərək fənəri keçirin
+• Avtomatik söndürmə taymeri
+• Ana ekran vidceti
+• 80 dil dəstəklənir
+
+📱 Yüngül, sürətli və reklamsız.
+</az-AZ>
+
+<eu-ES>
+🔦 Flashlight Pro - Zure Linterna Bikaina!
+
+✨ Ezaugarriak:
+• LED linterna distiratsua
+• SOS larrialdi modua
+• Strobe modua abiadura erregulagarriarekin
+• Pantaila argi modua
+• Astindu linterna aldatzeko
+• Auto-itzali tenporizadorea
+• Hasiera pantaila widgeta
+• 80 hizkuntza onartzen dira
+
+📱 Arina, azkarra eta iragarkirik gabea.
+</eu-ES>
+
+<be>
+🔦 Flashlight Pro - Ваш Лепшы Ліхтарык!
+
+✨ Магчымасці:
+• Яркі LED ліхтарык
+• SOS рэжым экстранай дапамогі
+• Строб рэжым з рэгуляванай хуткасцю
+• Рэжым святла экрана
+• Патрасіце для пераключэння
+• Таймер аўтаадключэння
+• Віджэт на галоўным экране
+• Падтрымка 80 моў
+
+📱 Лёгкі, хуткі і без рэкламы.
+</be>
+
+<bn-BD>
+🔦 Flashlight Pro - আপনার চূড়ান্ত ফ্ল্যাশলাইট অ্যাপ!
+
+✨ বৈশিষ্ট্য:
+• উজ্জ্বল LED ফ্ল্যাশলাইট
+• SOS জরুরি মোড
+• স্ট্রোব মোড
+• স্ক্রিন লাইট মোড
+• ঝাঁকিয়ে ফ্ল্যাশলাইট টগল করুন
+• অটো-অফ টাইমার
+• হোম স্ক্রিন উইজেট
+• 80টি ভাষা সমর্থিত
+
+📱 হালকা, দ্রুত এবং বিজ্ঞাপনমুক্ত।
+</bn-BD>
+
+<zh-CN>
+🔦 Flashlight Pro - 您的终极手电筒应用！
+
+✨ 功能:
+• 明亮的LED手电筒，即时开关
+• SOS紧急模式
+• 可调速频闪模式
+• 屏幕灯模式
+• 摇晃切换手电筒
+• 自动关闭定时器（1分钟、5分钟、15分钟、自定义）
+• 主屏幕小部件
+• 支持80种语言
+
+📱 轻量、快速、无广告。
+</zh-CN>
+
+<hr>
+🔦 Flashlight Pro - Vaša Ultimativna Svjetiljka!
+
+✨ Značajke:
+• Svijetla LED svjetiljka
+• SOS način rada za hitne slučajeve
+• Strobe način rada s podesivom brzinom
+• Način rada svjetla zaslona
+• Protresite za prebacivanje
+• Automatski isključi tajmer
+• Widget na početnom zaslonu
+• Podržano 80 jezika
+
+📱 Lagana, brza i bez oglasa.
+</hr>
+
+<nl-NL>
+🔦 Flashlight Pro - Uw Ultieme Zaklamp App!
+
+✨ Functies:
+• Heldere LED-zaklamp
+• SOS-noodmodus
+• Stroboscoopmodus met instelbare snelheid
+• Schermverlichtingsmodus
+• Schud om zaklamp te schakelen
+• Auto-uit timer
+• Startscherm-widget
+• 80 talen ondersteund
+
+📱 Lichtgewicht, snel en advertentievrij.
+</nl-NL>
+
+<et>
+🔦 Flashlight Pro - Teie Parim Taskulambi Rakendus!
+
+✨ Funktsioonid:
+• Ere LED-taskulamp
+• SOS hädaolukorra režiim
+• Stroboskoobi režiim reguleeritava kiirusega
+• Ekraanivalguse režiim
+• Raputage taskulambi lülitamiseks
+• Automaatse väljalülituse taimer
+• Avakuva vidin
+• 80 keelt toetatud
+
+📱 Kerge, kiire ja reklaamivaba.
+</et>
+
+<fr-FR>
+🔦 Flashlight Pro - Votre Lampe Torche Ultime!
+
+✨ Fonctionnalités:
+• Lampe torche LED lumineuse
+• Mode SOS d'urgence
+• Mode stroboscope avec vitesse réglable
+• Mode éclairage d'écran
+• Secouez pour allumer/éteindre
+• Minuterie d'arrêt automatique
+• Widget écran d'accueil
+• 80 langues prises en charge
+
+📱 Léger, rapide et sans publicité.
+</fr-FR>
+
+<gl-ES>
+🔦 Flashlight Pro - A Túa Lanterna Definitiva!
+
+✨ Características:
+• Lanterna LED brillante
+• Modo SOS de emerxencia
+• Modo estroboscópico con velocidade axustable
+• Modo luz de pantalla
+• Axita para alternar a lanterna
+• Temporizador de apagado automático
+• Widget de pantalla de inicio
+• 80 idiomas compatibles
+
+📱 Lixeira, rápida e sen anuncios.
+</gl-ES>
+
+<ka-GE>
+🔦 Flashlight Pro - თქვენი საუკეთესო ფანრის აპი!
+
+✨ ფუნქციები:
+• ნათელი LED ფანარი
+• SOS საგანგებო რეჟიმი
+• Strobe რეჟიმი რეგულირებადი სიჩქარით
+• ეკრანის განათების რეჟიმი
+• შეარხიეთ ფანრის გადართვისთვის
+• ავტომატური გამორთვის ტაიმერი
+• მთავარი ეკრანის ვიჯეტი
+• 80 ენის მხარდაჭერა
+
+📱 მსუბუქი, სწრაფი და რეკლამის გარეშე.
+</ka-GE>
+
+<de-DE>
+🔦 Flashlight Pro - Ihre Ultimative Taschenlampen-App!
+
+✨ Funktionen:
+• Helle LED-Taschenlampe
+• SOS-Notfallmodus
+• Stroboskop-Modus mit einstellbarer Geschwindigkeit
+• Bildschirmlicht-Modus
+• Schütteln zum Umschalten
+• Auto-Aus-Timer
+• Startbildschirm-Widget
+• 80 Sprachen unterstützt
+
+📱 Leichtgewichtig, schnell und werbefrei.
+</de-DE>
+
+<gu>
+🔦 Flashlight Pro - તમારી અંતિમ ફ્લેશલાઇટ એપ!
+
+✨ વિશેષતાઓ:
+• તેજસ્વી LED ફ્લેશલાઇટ
+• SOS ઇમરજન્સી મોડ
+• એડજસ્ટેબલ સ્પીડ સાથે સ્ટ્રોબ મોડ
+• સ્ક્રીન લાઇટ મોડ
+• ફ્લેશલાઇટ ટૉગલ કરવા હલાવો
+• ઑટો-ઑફ ટાઇમર
+• હોમ સ્ક્રીન વિજેટ
+• 80 ભાષાઓ સમર્થિત
+
+📱 હલકું, ઝડપી અને જાહેરાત-મુક્ત.
+</gu>
+
+<hi-IN>
+🔦 Flashlight Pro - आपका अल्टीमेट फ्लैशलाइट ऐप!
+
+✨ विशेषताएं:
+• चमकदार LED फ्लैशलाइट
+• SOS आपातकालीन मोड
+• समायोज्य गति के साथ स्ट्रोब मोड
+• स्क्रीन लाइट मोड
+• फ्लैशलाइट टॉगल करने के लिए हिलाएं
+• ऑटो-ऑफ टाइमर
+• होम स्क्रीन विजेट
+• 80 भाषाओं का समर्थन
+
+📱 हल्का, तेज और विज्ञापन-मुक्त।
+</hi-IN>
+
+<is-IS>
+🔦 Flashlight Pro - Fullkomna Vasaljós Appið!
+
+✨ Eiginleikar:
+• Björt LED vasaljós
+• SOS neyðarhamur
+• Strobe hamur með stillanlegu hraða
+• Skjáljós hamur
+• Hristu til að skipta um vasaljós
+• Sjálfvirk slökkvitími
+• Heimaskjár búnaður
+• 80 tungumál studd
+
+📱 Létt, hratt og auglýsingalaust.
+</is-IS>
+
+<id>
+🔦 Flashlight Pro - Aplikasi Senter Terbaik Anda!
+
+✨ Fitur:
+• Senter LED terang
+• Mode SOS darurat
+• Mode strobe dengan kecepatan yang dapat disesuaikan
+• Mode cahaya layar
+• Goyangkan untuk mengaktifkan senter
+• Timer mati otomatis
+• Widget layar utama
+• Mendukung 80 bahasa
+
+📱 Ringan, cepat, dan bebas iklan.
+</id>
+
+<it-IT>
+🔦 Flashlight Pro - La Tua Torcia Definitiva!
+
+✨ Caratteristiche:
+• Torcia LED luminosa
+• Modalità SOS di emergenza
+• Modalità strobo con velocità regolabile
+• Modalità luce schermo
+• Agita per attivare/disattivare la torcia
+• Timer di spegnimento automatico
+• Widget schermata iniziale
+• 80 lingue supportate
+
+📱 Leggera, veloce e senza pubblicità.
+</it-IT>
+
+<ja-JP>
+🔦 Flashlight Pro - 究極の懐中電灯アプリ！
+
+✨ 機能:
+• 明るいLED懐中電灯
+• SOS緊急モード
+• 速度調節可能なストロボモード
+• スクリーンライトモード
+• シェイクで懐中電灯を切り替え
+• 自動オフタイマー
+• ホーム画面ウィジェット
+• 80言語対応
+
+📱 軽量、高速、広告なし。
+</ja-JP>
+
+<kn-IN>
+🔦 Flashlight Pro - ನಿಮ್ಮ ಅಂತಿಮ ಫ್ಲ್ಯಾಶ್‌ಲೈಟ್ ಅಪ್ಲಿಕೇಶನ್!
+
+✨ ವೈಶಿಷ್ಟ್ಯಗಳು:
+• ಪ್ರಕಾಶಮಾನ LED ಫ್ಲ್ಯಾಶ್‌ಲೈಟ್
+• SOS ತುರ್ತು ಮೋಡ್
+• ಹೊಂದಿಸಬಹುದಾದ ವೇಗದ ಸ್ಟ್ರೋಬ್ ಮೋಡ್
+• ಪರದೆ ಬೆಳಕು ಮೋಡ್
+• ಫ್ಲ್ಯಾಶ್‌ಲೈಟ್ ಟಾಗಲ್ ಮಾಡಲು ಅಲುಗಾಡಿಸಿ
+• ಸ್ವಯಂ-ಆಫ್ ಟೈಮರ್
+• ಹೋಮ್ ಸ್ಕ್ರೀನ್ ವಿಜೆಟ್
+• 80 ಭಾಷೆಗಳ ಬೆಂಬಲ
+
+📱 ಹಗುರ, ವೇಗ ಮತ್ತು ಜಾಹೀರಾತು-ಮುಕ್ತ.
+</kn-IN>
+
+<km-KH>
+🔦 Flashlight Pro - កម្មវិធីពិល​ល្អ​បំផុត!
+
+✨ លក្ខណៈពិសេស:
+• ពិល LED ភ្លឺ
+• របៀប SOS បន្ទាន់
+• របៀប Strobe ជាមួយល្បឿនកែតម្រូវបាន
+• របៀបពន្លឺអេក្រង់
+• រង្គើដើម្បីបិទ/បើកពិល
+• កម្មវិធីកំណត់ពេលបិទស្វ័យប្រវត្តិ
+• វីជេតអេក្រង់ដើម
+• គាំទ្រ 80 ភាសា
+
+📱 ស្រាល រហ័ស និងគ្មានផ្សាយពាណិជ្ជកម្ម។
+</km-KH>
+
+<ko-KR>
+🔦 Flashlight Pro - 최고의 손전등 앱!
+
+✨ 기능:
+• 밝은 LED 손전등
+• SOS 비상 모드
+• 속도 조절 가능한 스트로브 모드
+• 화면 조명 모드
+• 흔들어서 손전등 전환
+• 자동 꺼짐 타이머
+• 홈 화면 위젯
+• 80개 언어 지원
+
+📱 가볍고 빠르며 광고 없음.
+</ko-KR>
+
+<ky-KG>
+🔦 Flashlight Pro - Эң Мыкты Чыракча Колдонмоңуз!
+
+✨ Өзгөчөлүктөр:
+• Жарык LED чыракча
+• SOS өзгөчө кырдаал режими
+• Strobe режими
+• Экран жарыгы режими
+• Чыракчаны которуш үчүн силкиңиз
+• Автоматтык өчүрүү таймери
+• Башкы экран виджети
+• 80 тил колдоого алынат
+
+📱 Жеңил, ылдам жана жарнаксыз.
+</ky-KG>
+
+<lo-LA>
+🔦 Flashlight Pro - ແອັບໄຟສາຍທີ່ດີທີ່ສຸດ!
+
+✨ ຄຸນສົມບັດ:
+• ໄຟ LED ສະຫວ່າງ
+• ໂໝດ SOS ສຸກເສີນ
+• ໂໝດ Strobe ປັບຄວາມໄວໄດ້
+• ໂໝດແສງໜ້າຈໍ
+• ຂະໜາດເພື່ອສະຫຼັບໄຟສາຍ
+• ໂມງປິດອັດຕະໂນມັດ
+• ວິດເຈັດໜ້າຈໍຫຼັກ
+• ຮອງຮັບ 80 ພາສາ
+
+📱 ເບົາ, ໄວ ແລະບໍ່ມີໂຄສະນາ.
+</lo-LA>
+
+<lt>
+🔦 Flashlight Pro - Jūsų Geriausia Žibintuvėlio Programėlė!
+
+✨ Funkcijos:
+• Ryškus LED žibintuvėlis
+• SOS avarinis režimas
+• Stroboskopo režimas su reguliuojamu greičiu
+• Ekrano šviesos režimas
+• Papurtykite, kad perjungtumėte
+• Automatinio išjungimo laikmatis
+• Pradinio ekrano valdiklis
+• Palaikomos 80 kalbų
+
+📱 Lengva, greita ir be reklamų.
+</lt>
+
+<lv>
+🔦 Flashlight Pro - Jūsu Labākā Lukturīša Lietotne!
+
+✨ Funkcijas:
+• Spilgts LED lukturītis
+• SOS ārkārtas režīms
+• Stroboskopa režīms ar regulējamu ātrumu
+• Ekrāna gaismas režīms
+• Pakratiet, lai pārslēgtu
+• Automātiskās izslēgšanas taimeris
+• Sākumekrāna logrīks
+• Atbalstītas 80 valodas
+
+📱 Viegla, ātra un bez reklāmām.
+</lv>
+
+<mk-MK>
+🔦 Flashlight Pro - Вашата Најдобра Апликација за Светилка!
+
+✨ Карактеристики:
+• Светла LED светилка
+• SOS режим за итни случаи
+• Строб режим со прилагодлива брзина
+• Режим на светло на екранот
+• Протресете за промена
+• Тајмер за автоматско исклучување
+• Виџет на почетен екран
+• Поддржани 80 јазици
+
+📱 Лесна, брза и без реклами.
+</mk-MK>
+
+<ms>
+🔦 Flashlight Pro - Aplikasi Lampu Suluh Terbaik Anda!
+
+✨ Ciri-ciri:
+• Lampu suluh LED terang
+• Mod SOS kecemasan
+• Mod strob dengan kelajuan boleh laras
+• Mod cahaya skrin
+• Goyangkan untuk togol lampu suluh
+• Pemasa auto-mati
+• Widget skrin utama
+• 80 bahasa disokong
+
+📱 Ringan, pantas dan tanpa iklan.
+</ms>
+
+<ml-IN>
+🔦 Flashlight Pro - നിങ്ങളുടെ അന്തിമ ഫ്ലാഷ്‌ലൈറ്റ് ആപ്പ്!
+
+✨ സവിശേഷതകൾ:
+• തിളക്കമുള്ള LED ഫ്ലാഷ്‌ലൈറ്റ്
+• SOS അടിയന്തര മോഡ്
+• ക്രമീകരിക്കാവുന്ന വേഗതയുള്ള സ്ട്രോബ് മോഡ്
+• സ്ക്രീൻ ലൈറ്റ് മോഡ്
+• ഫ്ലാഷ്‌ലൈറ്റ് ടോഗിൾ ചെയ്യാൻ കുലുക്കുക
+• ഓട്ടോ-ഓഫ് ടൈമർ
+• ഹോം സ്ക്രീൻ വിജറ്റ്
+• 80 ഭാഷകൾ പിന്തുണയ്ക്കുന്നു
+
+📱 ലഘുവായ, വേഗതയുള്ള, പരസ്യമില്ലാത്ത.
+</ml-IN>
+
+<mr-IN>
+🔦 Flashlight Pro - तुमचे अंतिम फ्लॅशलाइट अॅप!
+
+✨ वैशिष्ट्ये:
+• तेजस्वी LED फ्लॅशलाइट
+• SOS आणीबाणी मोड
+• समायोज्य गतीसह स्ट्रोब मोड
+• स्क्रीन लाइट मोड
+• फ्लॅशलाइट टॉगल करण्यासाठी हलवा
+• ऑटो-ऑफ टाइमर
+• होम स्क्रीन विजेट
+• 80 भाषा समर्थित
+
+📱 हलके, जलद आणि जाहिरात-मुक्त.
+</mr-IN>
+
+<mn-MN>
+🔦 Flashlight Pro - Таны Хамгийн Сайн Гар Чийдэн Апп!
+
+✨ Онцлогууд:
+• Тод LED гар чийдэн
+• SOS яаралтай горим
+• Strobe горим
+• Дэлгэцийн гэрэл горим
+• Гар чийдэнг солих болгоно
+• Автомат унтраах таймер
+• Үндсэн дэлгэцийн виджет
+• 80 хэл дэмжигдсэн
+
+📱 Хөнгөн, хурдан, зар сурталчилгаагүй.
+</mn-MN>
+
+<my-MM>
+🔦 Flashlight Pro - သင့်အတွက် အကောင်းဆုံး ဓာတ်မီးအက်ပ်!
+
+✨ အင်္ဂါရပ်များ:
+• တောက်ပသော LED ဓာတ်မီး
+• SOS အရေးပေါ်မုဒ်
+• ချိန်ညှိနိုင်သော Strobe မုဒ်
+• မျက်နှာပြင်အလင်းမုဒ်
+• ဓာတ်မီးပြောင်းရန် လှုပ်ပါ
+• အလိုအလျောက်ပိတ်တိုင်မာ
+• ပင်မမျက်နှာပြင် ဝိဂျက်
+• ဘာသာစကား 80 ပံ့ပိုး
+
+📱 ပေါ့ပါး၊ မြန်ဆန်၊ ကြော်ငြာမဲ့။
+</my-MM>
+
+<ne-NP>
+🔦 Flashlight Pro - तपाईंको उत्कृष्ट फ्ल्यासलाइट एप!
+
+✨ विशेषताहरू:
+• उज्यालो LED फ्ल्यासलाइट
+• SOS आपतकालीन मोड
+• समायोज्य गतिको स्ट्रोब मोड
+• स्क्रिन लाइट मोड
+• फ्ल्यासलाइट टगल गर्न हल्लाउनुहोस्
+• स्वत:-बन्द टाइमर
+• होम स्क्रिन विजेट
+• 80 भाषाहरू समर्थित
+
+📱 हल्का, छिटो र विज्ञापनमुक्त।
+</ne-NP>
+
+<fa>
+🔦 Flashlight Pro - بهترین اپلیکیشن چراغ‌قوه!
+
+✨ ویژگی‌ها:
+• چراغ‌قوه LED روشن
+• حالت SOS اضطراری
+• حالت چشمک‌زن با سرعت قابل تنظیم
+• حالت نور صفحه
+• تکان دهید برای تغییر
+• تایمر خاموشی خودکار
+• ویجت صفحه اصلی
+• پشتیبانی از 80 زبان
+
+📱 سبک، سریع و بدون تبلیغات.
+</fa>
+
+<pl-PL>
+🔦 Flashlight Pro - Twoja Najlepsza Latarka!
+
+✨ Funkcje:
+• Jasna latarka LED
+• Tryb awaryjny SOS
+• Tryb stroboskopu z regulowaną prędkością
+• Tryb światła ekranu
+• Potrząśnij, aby przełączyć latarkę
+• Timer automatycznego wyłączania
+• Widget na ekranie głównym
+• Obsługa 80 języków
+
+📱 Lekka, szybka i bez reklam.
+</pl-PL>
+
+<pt-BR>
+🔦 Flashlight Pro - Seu Aplicativo de Lanterna Definitivo!
+
+✨ Recursos:
+• Lanterna LED brilhante
+• Modo SOS de emergência
+• Modo estroboscópico com velocidade ajustável
+• Modo luz de tela
+• Agite para alternar a lanterna
+• Timer de desligamento automático
+• Widget na tela inicial
+• 80 idiomas suportados
+
+📱 Leve, rápido e sem anúncios.
+</pt-BR>
+
+<pa>
+🔦 Flashlight Pro - ਤੁਹਾਡੀ ਸਭ ਤੋਂ ਵਧੀਆ ਫਲੈਸ਼ਲਾਈਟ ਐਪ!
+
+✨ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ:
+• ਚਮਕਦਾਰ LED ਫਲੈਸ਼ਲਾਈਟ
+• SOS ਐਮਰਜੈਂਸੀ ਮੋਡ
+• ਸਟ੍ਰੋਬ ਮੋਡ
+• ਸਕ੍ਰੀਨ ਲਾਈਟ ਮੋਡ
+• ਫਲੈਸ਼ਲਾਈਟ ਟੌਗਲ ਕਰਨ ਲਈ ਹਿਲਾਓ
+• ਆਟੋ-ਆਫ ਟਾਈਮਰ
+• ਹੋਮ ਸਕ੍ਰੀਨ ਵਿਜੇਟ
+• 80 ਭਾਸ਼ਾਵਾਂ ਸਮਰਥਿਤ
+
+📱 ਹਲਕੀ, ਤੇਜ਼ ਅਤੇ ਇਸ਼ਤਿਹਾਰ-ਮੁਕਤ।
+</pa>
+
+<ro>
+🔦 Flashlight Pro - Cea Mai Bună Aplicație de Lanternă!
+
+✨ Caracteristici:
+• Lanternă LED strălucitoare
+• Mod SOS de urgență
+• Mod strob cu viteză reglabilă
+• Mod lumină ecran
+• Agitați pentru a comuta lanterna
+• Cronometru de oprire automată
+• Widget pe ecranul principal
+• 80 de limbi acceptate
+
+📱 Ușoară, rapidă și fără reclame.
+</ro>
+
+<ru-RU>
+🔦 Flashlight Pro - Ваш Лучший Фонарик!
+
+✨ Функции:
+• Яркий LED-фонарик
+• SOS-режим для экстренных случаев
+• Стробоскоп с регулируемой скоростью
+• Режим подсветки экрана
+• Встряхните для переключения
+• Таймер автоматического отключения
+• Виджет на главном экране
+• Поддержка 80 языков
+
+📱 Лёгкое, быстрое и без рекламы.
+</ru-RU>
+
+<sr>
+🔦 Flashlight Pro - Ваша Најбоља Батеријска Лампа!
+
+✨ Карактеристике:
+• Светла LED батеријска лампа
+• SOS режим за хитне случајеве
+• Строб режим са подесивом брзином
+• Режим светла екрана
+• Протресите за пребацивање
+• Тајмер за аутоматско искључивање
+• Виџет на почетном екрану
+• Подржано 80 језика
+
+📱 Лагана, брза и без реклама.
+</sr>
+
+<si-LK>
+🔦 Flashlight Pro - ඔබේ අවසාන ෆ්ලෑෂ්ලයිට් යෙදුම!
+
+✨ විශේෂාංග:
+• දීප්තිමත් LED ෆ්ලෑෂ්ලයිට්
+• SOS හදිසි මාදිලිය
+• සකස් කළ හැකි වේගයෙන් ස්ට්‍රෝබ් මාදිලිය
+• තිර ආලෝක මාදිලිය
+• ෆ්ලෑෂ්ලයිට් මාරු කිරීමට සෙලවීම
+• ස්වයං-ක්‍රිය ටයිමරය
+• මුල් තිර විජට්
+• භාෂා 80 සහාය
+
+📱 සැහැල්ලු, වේගවත් සහ දැන්වීම් රහිත.
+</si-LK>
+
+<sk>
+🔦 Flashlight Pro - Vaša Najlepšia Baterka!
+
+✨ Funkcie:
+• Jasná LED baterka
+• SOS núdzový režim
+• Stroboskopický režim s nastaviteľnou rýchlosťou
+• Režim svetla obrazovky
+• Zatriasťe na prepnutie baterky
+• Časovač automatického vypnutia
+• Widget domovskej obrazovky
+• Podpora 80 jazykov
+
+📱 Ľahká, rýchla a bez reklám.
+</sk>
+
+<sl>
+🔦 Flashlight Pro - Vaša Najboljša Svetilka!
+
+✨ Funkcije:
+• Svetla LED svetilka
+• SOS način za nujne primere
+• Stroboskopski način z nastavljivo hitrostjo
+• Način zaslonske svetlobe
+• Stresite za preklop svetilke
+• Časovnik samodejnega izklopa
+• Pripomoček domačega zaslona
+• Podpora za 80 jezikov
+
+📱 Lahka, hitra in brez oglasov.
+</sl>
+<es-ES>
+🔦 Flashlight Pro - ¡Tu Linterna Definitiva!
+
+✨ Características:
+• Linterna LED brillante
+• Modo SOS de emergencia
+• Modo estroboscópico con velocidad ajustable
+• Modo luz de pantalla
+• Agitar para encender/apagar
+• Temporizador de apagado automático
+• Widget de pantalla de inicio
+• 80 idiomas compatibles
+
+📱 Ligera, rápida y sin anuncios.
+</es-ES>
+
+<sw>
+🔦 Flashlight Pro - Programu Yako Bora ya Tochi!
+
+✨ Vipengele:
+• Tochi ya LED yenye mwanga mkali
+• Hali ya SOS ya dharura
+• Hali ya strobe
+• Hali ya mwanga wa skrini
+• Tikisa kubadilisha tochi
+• Kipima muda cha kuzima kiotomatiki
+• Wijeti ya skrini ya nyumbani
+• Lugha 80 zinazotumika
+
+📱 Nyepesi, haraka na bila matangazo.
+</sw>
+
+<ta-IN>
+🔦 Flashlight Pro - உங்கள் சிறந்த ஒளிரும் விளக்கு செயலி!
+
+✨ அம்சங்கள்:
+• பிரகாசமான LED ஒளிரும் விளக்கு
+• SOS அவசர பயன்முறை
+• ஸ்ட்ரோப் பயன்முறை
+• திரை ஒளி பயன்முறை
+• ஒளிரும் விளக்கை மாற்ற அசைக்கவும்
+• தானியங்கி அணைப்பு நேரமானி
+• முகப்புத் திரை விட்ஜெட்
+• 80 மொழிகள் ஆதரிக்கப்படுகின்றன
+
+📱 எளிதான, வேகமான, விளம்பரமற்ற.
+</ta-IN>
+
+<te-IN>
+🔦 Flashlight Pro - మీ అంతిమ ఫ్లాష్‌లైట్ యాప్!
+
+✨ ఫీచర్లు:
+• ప్రకాశవంతమైన LED ఫ్లాష్‌లైట్
+• SOS అత్యవసర మోడ్
+• స్ట్రోబ్ మోడ్
+• స్క్రీన్ లైట్ మోడ్
+• ఫ్లాష్‌లైట్‌ను టాగిల్ చేయడానికి షేక్ చేయండి
+• ఆటో-ఆఫ్ టైమర్
+• హోమ్ స్క్రీన్ విడ్జెట్
+• 80 భాషలు మద్దతు
+
+📱 తేలికైన, వేగవంతమైన, ప్రకటనలు లేని.
+</te-IN>
+
+<th>
+🔦 Flashlight Pro - แอปไฟฉายที่ดีที่สุดของคุณ!
+
+✨ คุณสมบัติ:
+• ไฟฉาย LED สว่าง
+• โหมด SOS ฉุกเฉิน
+• โหมดไฟกะพริบปรับความเร็วได้
+• โหมดแสงหน้าจอ
+• เขย่าเพื่อสลับไฟฉาย
+• ตั้งเวลาปิดอัตโนมัติ
+• วิดเจ็ตหน้าจอหลัก
+• รองรับ 80 ภาษา
+
+📱 เบา เร็ว ไม่มีโฆษณา
+</th>
+
+<tr-TR>
+🔦 Flashlight Pro - En İyi El Feneri Uygulamanız!
+
+✨ Özellikler:
+• Parlak LED el feneri
+• SOS acil durum modu
+• Ayarlanabilir hızda strobe modu
+• Ekran ışığı modu
+• El fenerini değiştirmek için sallayın
+• Otomatik kapanma zamanlayıcısı
+• Ana ekran widget'ı
+• 80 dil destekleniyor
+
+📱 Hafif, hızlı ve reklamsız.
+</tr-TR>
+
+<uk>
+🔦 Flashlight Pro - Ваш Найкращий Ліхтарик!
+
+✨ Функції:
+• Яскравий LED-ліхтарик
+• SOS-режим для надзвичайних ситуацій
+• Стробоскоп з регульованою швидкістю
+• Режим підсвічування екрана
+• Струсніть для перемикання
+• Таймер автоматичного вимкнення
+• Віджет на головному екрані
+• Підтримка 80 мов
+
+📱 Легкий, швидкий і без реклами.
+</uk>
+
+<ur>
+🔦 Flashlight Pro - آپ کی بہترین ٹارچ ایپ!
+
+✨ خصوصیات:
+• روشن LED ٹارچ
+• SOS ایمرجنسی موڈ
+• اسٹروب موڈ
+• اسکرین لائٹ موڈ
+• ٹارچ ٹوگل کرنے کے لیے ہلائیں
+• آٹو آف ٹائمر
+• ہوم اسکرین ویجیٹ
+• 80 زبانوں کی سپورٹ
+
+📱 ہلکی، تیز اور اشتہارات سے پاک۔
+</ur>
+<vi>
+🔦 Flashlight Pro - Ứng Dụng Đèn Pin Tốt Nhất!
+
+✨ Tính năng:
+• Đèn pin LED sáng
+• Chế độ SOS khẩn cấp
+• Chế độ nhấp nháy với tốc độ điều chỉnh được
+• Chế độ ánh sáng màn hình
+• Lắc để bật/tắt đèn pin
+• Hẹn giờ tự tắt
+• Widget màn hình chính
+• Hỗ trợ 80 ngôn ngữ
+
+📱 Nhẹ, nhanh và không quảng cáo.
+</vi>
+
+<zu>
+🔦 Flashlight Pro - I-App Yakho Yokugcina Ye-Flashlight!
+
+✨ Izici:
+• I-flashlight ye-LED ekhanyayo
+• Imodi ye-SOS yezimo eziphuthumayo
+• Imodi ye-strobe
+• Imodi yokukhanya kwesikrini
+• Nikina ukuze ushintshe i-flashlight
+• Isikhathi sokucisha ngokuzenzakalelayo
+• Iwijethi yesikrini sasekhaya
+• Izilimi ezingu-80 zisekelwa
+
+📱 Elula, esheshayo, engenzikhangiso.
+</zu>
