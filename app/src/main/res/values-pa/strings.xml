@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">ਫਲੈਸ਼ਲਾਈਟ ਟੌਗਲ ਬਟਨ</string>
     <string name="choose_language">ਭਾਸ਼ਾ ਚੁਣੋ</string>
     <string name="search_language">ਭਾਸ਼ਾ ਲੱਭੋ…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">ਫਲੈਸ਼ਲਾਈਟ ਬੰਦ</string>
     <string name="timer_set">ਆਟੋ-ਆਫ ਟਾਈਮਰ ਸੈੱਟ: %1$s</string>
     <string name="timer_cancelled">ਟਾਈਮਰ ਰੱਦ ਕੀਤਾ</string>
-    <string name="rate_title">Flashlight Pro ਪਸੰਦ ਹੈ?</string>
+    <string name="rate_title">Flashlight Torch Pro ਪਸੰਦ ਹੈ?</string>
     <string name="rate_message">ਜੇ ਤੁਹਾਨੂੰ ਇਹ ਐਪ ਲਾਭਦਾਇਕ ਲੱਗੀ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਰੇਟ ਕਰੋ। ਇਹ ਸੱਚਮੁੱਚ ਮਦਦ ਕਰਦਾ ਹੈ!</string>
     <string name="rate_now">ਹੁਣੇ ਰੇਟ ਕਰੋ</string>
     <string name="rate_later">ਬਾਅਦ ਵਿੱਚ</string>

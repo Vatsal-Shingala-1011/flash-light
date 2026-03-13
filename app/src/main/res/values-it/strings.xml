@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Pulsante torcia on/off</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Timer annullato</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Ti piace Flashlight Pro?</string>
+    <string name="rate_title">Ti piace Flashlight Torch Pro?</string>
     <string name="rate_message">Se trovi questa app utile, ti preghiamo di dedicare un momento per valutarla. Aiuta davvero!</string>
     <string name="rate_now">Valuta ora</string>
     <string name="rate_later">Più tardi</string>

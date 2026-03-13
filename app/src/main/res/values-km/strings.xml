@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">ប៊ូតុងបិទបើកពិល</string>
     <string name="choose_language">ជ្រើសរើសភាសា</string>
     <string name="search_language">ស្វែងរកភាសា…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">ពិលបិទ</string>
     <string name="timer_set">កម្មវិធីកំណត់ពេលបិទស្វ័យប្រវត្តិ: %1$s</string>
     <string name="timer_cancelled">កម្មវិធីកំណត់ពេលត្រូវបានលុបចោល</string>
-    <string name="rate_title">ចូលចិត្ត Flashlight Pro មែនទេ?</string>
+    <string name="rate_title">ចូលចិត្ត Flashlight Torch Pro មែនទេ?</string>
     <string name="rate_message">បើអ្នកយល់ថាកម្មវិធីនេះមានប្រយោជន៍ សូមវាយតម្លៃ។ វាពិតជាជួយណាស់!</string>
     <string name="rate_now">វាយតម្លៃឥឡូវ</string>
     <string name="rate_later">ពេលក្រោយ</string>

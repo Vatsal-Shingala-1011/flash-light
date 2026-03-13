@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Tlačidlo prepínania baterky</string>
     <string name="choose_language">Vyberte jazyk</string>
     <string name="search_language">Hľadať jazyk…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Baterka vypnutá</string>
     <string name="timer_set">Časovač auto-vypnutia nastavený: %1$s</string>
     <string name="timer_cancelled">Časovač zrušený</string>
-    <string name="rate_title">Páči sa vám Flashlight Pro?</string>
+    <string name="rate_title">Páči sa vám Flashlight Torch Pro?</string>
     <string name="rate_message">Ak považujete túto aplikáciu za užitočnú, ohodnoťte ju. Naozaj to pomáha!</string>
     <string name="rate_now">Ohodnotiť teraz</string>
     <string name="rate_later">Neskôr</string>

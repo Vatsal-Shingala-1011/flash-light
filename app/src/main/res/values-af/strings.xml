@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Flitslig skakelknoppie</string>
     <string name="choose_language">Kies taal</string>
     <string name="search_language">Soek taal…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Flitslig af</string>
     <string name="timer_set">Outo-af timer gestel: %1$s</string>
     <string name="timer_cancelled">Timer gekanselleer</string>
-    <string name="rate_title">Geniet jy Flashlight Pro?</string>
+    <string name="rate_title">Geniet jy Flashlight Torch Pro?</string>
     <string name="rate_message">As jy hierdie toep nuttig vind, beoordeel dit asseblief. Dit help regtig!</string>
     <string name="rate_now">Beoordeel nou</string>
     <string name="rate_later">Later</string>

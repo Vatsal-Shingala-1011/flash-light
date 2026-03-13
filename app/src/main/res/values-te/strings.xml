@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">ఫ్లాష్‌లైట్ టోగుల్ బటన్</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">టైమర్ రద్దు చేయబడింది</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Flashlight Pro నచ్చుతోందా?</string>
+    <string name="rate_title">Flashlight Torch Pro నచ్చుతోందా?</string>
     <string name="rate_message">ఈ యాప్ ఉపయోగకరంగా ఉంటే, దయచేసి రేటింగ్ ఇవ్వండి. ఇది నిజంగా సహాయపడుతుంది!</string>
     <string name="rate_now">ఇప్పుడే రేట్ చేయండి</string>
     <string name="rate_later">తర్వాత</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">懐中電灯切り替えボタン</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">タイマーキャンセル</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Flashlight Proをお楽しみですか？</string>
+    <string name="rate_title">Flashlight Torch Proをお楽しみですか？</string>
     <string name="rate_message">このアプリが役に立つと思ったら、ぜひ評価してください。とても助かります！</string>
     <string name="rate_now">今すぐ評価</string>
     <string name="rate_later">後で</string>

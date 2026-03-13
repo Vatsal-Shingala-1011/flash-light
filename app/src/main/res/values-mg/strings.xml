@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Bokotra fanovana jiro</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Famantaranandro nofoanana</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Tianao ve Flashlight Pro?</string>
+    <string name="rate_title">Tianao ve Flashlight Torch Pro?</string>
     <string name="rate_message">Raha hitanao fa mahasoa ity app ity, azafady mba omeo naoty. Tena manampy izany!</string>
     <string name="rate_now">Omeo Naoty Izao</string>
     <string name="rate_later">Avy eo</string>

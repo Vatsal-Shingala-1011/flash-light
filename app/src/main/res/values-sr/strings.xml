@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Дугме за пребацивање батеријске лампе</string>
     <string name="choose_language">Изаберите језик</string>
     <string name="search_language">Претражите језик…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Батеријска лампа искључена</string>
     <string name="timer_set">Тајмер аутоматског искључивања подешен: %1$s</string>
     <string name="timer_cancelled">Тајмер отказан</string>
-    <string name="rate_title">Свиђа вам се Flashlight Pro?</string>
+    <string name="rate_title">Свиђа вам се Flashlight Torch Pro?</string>
     <string name="rate_message">Ако сматрате да је ова апликација корисна, оцените је. Заиста помаже!</string>
     <string name="rate_now">Оцените сада</string>
     <string name="rate_later">Касније</string>

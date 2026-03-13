@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">ஒளிவிளக்கு நிலைமாற்று பொத்தான்</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">நேரமானி ரத்துசெய்யப்பட்டது</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Flashlight Pro பிடித்திருக்கிறதா?</string>
+    <string name="rate_title">Flashlight Torch Pro பிடித்திருக்கிறதா?</string>
     <string name="rate_message">இந்த செயலி பயனுள்ளதாக இருந்தால், தயவுசெய்து மதிப்பிடுங்கள். இது மிகவும் உதவியாக இருக்கும்!</string>
     <string name="rate_now">இப்போது மதிப்பிடு</string>
     <string name="rate_later">பின்னர்</string>

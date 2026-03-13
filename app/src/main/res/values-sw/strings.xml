@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Kitufe cha kubadilisha tochi</string>
     <string name="choose_language">Chagua lugha</string>
     <string name="search_language">Tafuta lugha…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Tochi imezimwa</string>
     <string name="timer_set">Kipima muda cha kuzima kiotomatiki: %1$s</string>
     <string name="timer_cancelled">Kipima muda kimesitishwa</string>
-    <string name="rate_title">Unapenda Flashlight Pro?</string>
+    <string name="rate_title">Unapenda Flashlight Torch Pro?</string>
     <string name="rate_message">Ikiwa unapata programu hii muhimu, tafadhali iweke alama. Husaidia sana!</string>
     <string name="rate_now">Kadiria sasa</string>
     <string name="rate_later">Baadaye</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Taschenlampe Ein-/Ausschalter</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Timer abgebrochen</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Gefällt Ihnen Flashlight Pro?</string>
+    <string name="rate_title">Gefällt Ihnen Flashlight Torch Pro?</string>
     <string name="rate_message">Wenn Sie diese App nützlich finden, bewerten Sie sie bitte. Das hilft wirklich!</string>
     <string name="rate_now">Jetzt bewerten</string>
     <string name="rate_later">Später</string>

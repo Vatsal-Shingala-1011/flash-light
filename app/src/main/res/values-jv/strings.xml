@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Tombol senter</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Timer dibatalake</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Seneng nganggo Flashlight Pro?</string>
+    <string name="rate_title">Seneng nganggo Flashlight Torch Pro?</string>
     <string name="rate_message">Yen sampeyan nganggep app iki migunani, tulung wenehana rating. Iki pancen mbantu!</string>
     <string name="rate_now">Rating Saiki</string>
     <string name="rate_later">Mengko</string>

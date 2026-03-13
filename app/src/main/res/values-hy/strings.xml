@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Flashlight toggle button</string>
     <string name="choose_language">Choose Language</string>
     <string name="search_language">Search language…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Flashlight OFF</string>
     <string name="timer_set">Auto-off timer set: %1$s</string>
     <string name="timer_cancelled">Timer cancelled</string>
-    <string name="rate_title">Enjoying Flashlight Pro?</string>
+    <string name="rate_title">Enjoying Flashlight Torch Pro?</string>
     <string name="rate_message">If you find this app useful, please take a moment to rate it. It really helps!</string>
     <string name="rate_now">Rate Now</string>
     <string name="rate_later">Later</string>

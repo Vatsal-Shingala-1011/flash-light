@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Гар чийдэн асаах/унтраах товч</string>
     <string name="choose_language">Хэл сонгох</string>
     <string name="search_language">Хэл хайх…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Гар чийдэн унтраалттай</string>
     <string name="timer_set">Авто-унтраах цаг тохируулсан: %1$s</string>
     <string name="timer_cancelled">Цаг цуцлагдсан</string>
-    <string name="rate_title">Flashlight Pro таалагдаж байна уу?</string>
+    <string name="rate_title">Flashlight Torch Pro таалагдаж байна уу?</string>
     <string name="rate_message">Хэрэв та энэ аппыг хэрэгтэй гэж үзвэл үнэлнэ үү. Энэ үнэхээр тусалдаг!</string>
     <string name="rate_now">Одоо үнэлэх</string>
     <string name="rate_later">Дараа</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Gumb za preklop svetilke</string>
     <string name="choose_language">Izberite jezik</string>
     <string name="search_language">Iskanje jezika…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Svetilka izklopljena</string>
     <string name="timer_set">Časovnik samodejnega izklopa nastavljen: %1$s</string>
     <string name="timer_cancelled">Časovnik preklican</string>
-    <string name="rate_title">Vam je všeč Flashlight Pro?</string>
+    <string name="rate_title">Vam je všeč Flashlight Torch Pro?</string>
     <string name="rate_message">Če menite, da je ta aplikacija uporabna, jo ocenite. Res pomaga!</string>
     <string name="rate_now">Oceni zdaj</string>
     <string name="rate_later">Pozneje</string>

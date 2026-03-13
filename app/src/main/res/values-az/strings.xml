@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Fənər keçid düyməsi</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Taymer ləğv edildi</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Flashlight Pro xoşunuza gəlir?</string>
+    <string name="rate_title">Flashlight Torch Pro xoşunuza gəlir?</string>
     <string name="rate_message">Bu tətbiqi faydalı hesab edirsinizsə, lütfən dəyərləndirin. Bu həqiqətən kömək edir!</string>
     <string name="rate_now">İndi Dəyərləndir</string>
     <string name="rate_later">Sonra</string>

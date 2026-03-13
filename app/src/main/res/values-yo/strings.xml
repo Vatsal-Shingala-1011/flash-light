@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Bọtini iyipada fitila</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">A ti fagilee aago</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Ṣé o fẹ́ràn Flashlight Pro?</string>
+    <string name="rate_title">Ṣé o fẹ́ràn Flashlight Torch Pro?</string>
     <string name="rate_message">Tí o bá rí àpò yìí ní àǹfàní, jọ̀wọ́ fún un ní ìgbéléwọ̀n. Ó ṣe ìrànlọ́wọ́ gan!</string>
     <string name="rate_now">Ṣe Ìgbéléwọ̀n Báyìí</string>
     <string name="rate_later">Lẹ́hìn náà</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Botão de ligar/desligar lanterna</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Temporizador cancelado</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Gostando do Flashlight Pro?</string>
+    <string name="rate_title">Gostando do Flashlight Torch Pro?</string>
     <string name="rate_message">Se você acha este aplicativo útil, por favor avalie-o. Isso realmente ajuda!</string>
     <string name="rate_now">Avaliar agora</string>
     <string name="rate_later">Mais tarde</string>

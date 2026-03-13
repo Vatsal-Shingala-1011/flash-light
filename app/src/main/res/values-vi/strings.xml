@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Nút bật/tắt đèn pin</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Đã hủy hẹn giờ</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Bạn thích Flashlight Pro?</string>
+    <string name="rate_title">Bạn thích Flashlight Torch Pro?</string>
     <string name="rate_message">Nếu bạn thấy ứng dụng này hữu ích, vui lòng dành chút thời gian để đánh giá. Điều này thực sự rất hữu ích!</string>
     <string name="rate_now">Đánh giá ngay</string>
     <string name="rate_later">Để sau</string>

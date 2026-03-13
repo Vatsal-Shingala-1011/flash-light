@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Butang togol lampin suluh</string>
     <string name="choose_language">Pilih bahasa</string>
     <string name="search_language">Cari bahasa…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Lampin suluh mati</string>
     <string name="timer_set">Pemasa auto-mati ditetapkan: %1$s</string>
     <string name="timer_cancelled">Pemasa dibatalkan</string>
-    <string name="rate_title">Suka Flashlight Pro?</string>
+    <string name="rate_title">Suka Flashlight Torch Pro?</string>
     <string name="rate_message">Jika anda rasa aplikasi ini berguna, sila berikan penilaian. Ia sangat membantu!</string>
     <string name="rate_now">Nilai sekarang</string>
     <string name="rate_later">Nanti</string>

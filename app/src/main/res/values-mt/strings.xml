@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Buttuna tat-tixgħil tat-torċ</string>
     <string name="choose_language">Agħżel lingwa</string>
     <string name="search_language">Fittex lingwa…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Torċ mitfija</string>
     <string name="timer_set">Timer ta\' tifi awtomatiku ssettjat: %1$s</string>
     <string name="timer_cancelled">Timer ikkanċellat</string>
-    <string name="rate_title">Togħġbok Flashlight Pro?</string>
+    <string name="rate_title">Togħġbok Flashlight Torch Pro?</string>
     <string name="rate_message">Jekk issib din l-app utli, jekk jogħġbok ivvalutaha. Tgħin tassew!</string>
     <string name="rate_now">Ivvaluta issa</string>
     <string name="rate_later">Aktar tard</string>

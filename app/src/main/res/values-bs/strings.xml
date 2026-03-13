@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Dugme za uključivanje baterije</string>
     <string name="choose_language">Odaberite jezik</string>
     <string name="search_language">Pretraži jezik…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Baterija isključena</string>
     <string name="timer_set">Tajmer automatskog isključivanja postavljen: %1$s</string>
     <string name="timer_cancelled">Tajmer otkazan</string>
-    <string name="rate_title">Sviđa vam se Flashlight Pro?</string>
+    <string name="rate_title">Sviđa vam se Flashlight Torch Pro?</string>
     <string name="rate_message">Ako smatrate da je ova aplikacija korisna, ocijenite je. Zaista pomaže!</string>
     <string name="rate_now">Ocijeni sada</string>
     <string name="rate_later">Kasnije</string>

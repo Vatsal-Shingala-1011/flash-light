@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">زر تشغيل/إيقاف الكشاف</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">تم إلغاء المؤقت</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">هل تستمتع بـ Flashlight Pro؟</string>
+    <string name="rate_title">هل تستمتع بـ Flashlight Torch Pro؟</string>
     <string name="rate_message">إذا وجدت هذا التطبيق مفيدًا، يرجى تخصيص لحظة لتقييمه. هذا يساعد حقًا!</string>
     <string name="rate_now">قيّم الآن</string>
     <string name="rate_later">لاحقًا</string>

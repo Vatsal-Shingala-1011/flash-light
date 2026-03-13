@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Кнопка перемикання ліхтарика</string>
     <string name="choose_language">Виберіть мову</string>
     <string name="search_language">Пошук мови…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Ліхтарик вимкнено</string>
     <string name="timer_set">Таймер автовимкнення встановлено: %1$s</string>
     <string name="timer_cancelled">Таймер скасовано</string>
-    <string name="rate_title">Подобається Flashlight Pro?</string>
+    <string name="rate_title">Подобається Flashlight Torch Pro?</string>
     <string name="rate_message">Якщо ви вважаєте цей додаток корисним, будь ласка, оцініть його. Це дуже допомагає!</string>
     <string name="rate_now">Оцінити зараз</string>
     <string name="rate_later">Пізніше</string>

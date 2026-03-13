@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">ปุ่มเปิด/ปิดไฟฉาย</string>
     <string name="choose_language">เลือกภาษา</string>
     <string name="search_language">ค้นหาภาษา…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">ไฟฉายปิด</string>
     <string name="timer_set">ตั้งเวลาปิดอัตโนมัติ: %1$s</string>
     <string name="timer_cancelled">ยกเลิกตัวจับเวลา</string>
-    <string name="rate_title">ชอบ Flashlight Pro ไหม?</string>
+    <string name="rate_title">ชอบ Flashlight Torch Pro ไหม?</string>
     <string name="rate_message">หากคุณพบว่าแอปนี้มีประโยชน์ กรุณาให้คะแนน มันช่วยได้มาก!</string>
     <string name="rate_now">ให้คะแนนเลย</string>
     <string name="rate_later">ทีหลัง</string>

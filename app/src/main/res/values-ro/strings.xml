@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Buton comutare lanternă</string>
     <string name="choose_language">Alege limba</string>
     <string name="search_language">Caută limba…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Lanternă oprită</string>
     <string name="timer_set">Temporizator oprire automată setat: %1$s</string>
     <string name="timer_cancelled">Temporizator anulat</string>
-    <string name="rate_title">Îți place Flashlight Pro?</string>
+    <string name="rate_title">Îți place Flashlight Torch Pro?</string>
     <string name="rate_message">Dacă consideri această aplicație utilă, te rugăm să o evaluezi. Chiar ajută!</string>
     <string name="rate_now">Evaluează acum</string>
     <string name="rate_later">Mai târziu</string>

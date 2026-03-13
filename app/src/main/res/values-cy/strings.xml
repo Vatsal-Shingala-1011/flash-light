@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Botwm toglo fflachlamp</string>
     <string name="choose_language">Dewis iaith</string>
     <string name="search_language">Chwilio am iaith…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Fflachlamp i ffwrdd</string>
     <string name="timer_set">Amserydd auto-diffodd wedi ei osod: %1$s</string>
     <string name="timer_cancelled">Amserydd wedi ei ganslo</string>
-    <string name="rate_title">Yn mwynhau Flashlight Pro?</string>
+    <string name="rate_title">Yn mwynhau Flashlight Torch Pro?</string>
     <string name="rate_message">Os ydych yn ei chael yn ddefnyddiol, rhowch sgôr iddo. Mae wir yn helpu!</string>
     <string name="rate_now">Sgorio nawr</string>
     <string name="rate_later">Yn ddiweddarach</string>

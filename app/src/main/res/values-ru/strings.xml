@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Кнопка включения фонарика</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Таймер отменён</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Нравится Flashlight Pro?</string>
+    <string name="rate_title">Нравится Flashlight Torch Pro?</string>
     <string name="rate_message">Если вы считаете это приложение полезным, пожалуйста, оцените его. Это очень помогает!</string>
     <string name="rate_now">Оценить сейчас</string>
     <string name="rate_later">Позже</string>

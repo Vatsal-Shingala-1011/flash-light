@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">手电筒开关按钮</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">定时器已取消</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">喜欢 Flashlight Pro 吗？</string>
+    <string name="rate_title">喜欢 Flashlight Torch Pro 吗？</string>
     <string name="rate_message">如果您觉得这个应用有用，请花一点时间给它评分。这真的很有帮助！</string>
     <string name="rate_now">立即评分</string>
     <string name="rate_later">稍后</string>

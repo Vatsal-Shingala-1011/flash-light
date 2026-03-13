@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">ফ্ল্যাশলাইট টগল বোতাম</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">টাইমার বাতিল</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Flashlight Pro পছন্দ হচ্ছে?</string>
+    <string name="rate_title">Flashlight Torch Pro পছন্দ হচ্ছে?</string>
     <string name="rate_message">আপনি যদি এই অ্যাপটি উপযোগী মনে করেন, দয়া করে এটি রেটিং দিন। এটি সত্যিই সাহায্য করে!</string>
     <string name="rate_now">এখনই রেট করুন</string>
     <string name="rate_later">পরে</string>

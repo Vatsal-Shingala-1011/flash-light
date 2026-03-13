@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Linterna txandakatzeko botoia</string>
     <string name="choose_language">Hizkuntza aukeratu</string>
     <string name="search_language">Hizkuntza bilatu…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Linterna itzalita</string>
     <string name="timer_set">Auto-itzaltze tenporizadorea ezarrita: %1$s</string>
     <string name="timer_cancelled">Tenporizadorea bertan behera utzi da</string>
-    <string name="rate_title">Flashlight Pro gustuko duzu?</string>
+    <string name="rate_title">Flashlight Torch Pro gustuko duzu?</string>
     <string name="rate_message">Aplikazio hau erabilgarria iruditzen bazaizu, mesedez baloratu. Benetan laguntzen du!</string>
     <string name="rate_now">Baloratu orain</string>
     <string name="rate_later">Geroago</string>

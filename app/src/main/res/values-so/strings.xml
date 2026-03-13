@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Badhalka nalka shidaalka</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Saacadda la joojiyay</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Ma ku heshiisay Flashlight Pro?</string>
+    <string name="rate_title">Ma ku heshiisay Flashlight Torch Pro?</string>
     <string name="rate_message">Haddii aad u aragto barnaamijkan inuu faa\'iido leh yahay, fadlan qiimee. Runtii wuu caawiyaa!</string>
     <string name="rate_now">Qiimee Hadda</string>
     <string name="rate_later">Dambe</string>

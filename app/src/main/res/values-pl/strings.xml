@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Przycisk przełączania latarki</string>
     <string name="choose_language">Wybierz język</string>
     <string name="search_language">Szukaj języka…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Latarka wyłączona</string>
     <string name="timer_set">Timer auto-wył. ustawiony: %1$s</string>
     <string name="timer_cancelled">Timer anulowany</string>
-    <string name="rate_title">Podoba Ci się Flashlight Pro?</string>
+    <string name="rate_title">Podoba Ci się Flashlight Torch Pro?</string>
     <string name="rate_message">Jeśli uważasz tę aplikację za przydatną, prosimy o ocenę. To naprawdę pomaga!</string>
     <string name="rate_now">Oceń teraz</string>
     <string name="rate_later">Później</string>

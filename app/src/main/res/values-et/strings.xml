@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Pro</string>
+    <string name="app_name">Flashlight Torch Pro</string>
     <string name="flashlight_bulb">Taskulambi lülitusnupp</string>
     <string name="choose_language">Vali keel</string>
     <string name="search_language">Otsi keelt…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Taskulamp väljas</string>
     <string name="timer_set">Auto-väljalülitamise taimer seatud: %1$s</string>
     <string name="timer_cancelled">Taimer tühistatud</string>
-    <string name="rate_title">Meeldib Flashlight Pro?</string>
+    <string name="rate_title">Meeldib Flashlight Torch Pro?</string>
     <string name="rate_message">Kui leiate selle rakenduse kasulikuks, palun hinnake seda. See aitab tõesti!</string>
     <string name="rate_now">Hinda nüüd</string>
     <string name="rate_later">Hiljem</string>
