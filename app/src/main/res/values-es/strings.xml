@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Botón de interruptor de linterna</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Temporizador cancelado</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">¿Te gusta Flashlight Torch Pro?</string>
+    <string name="rate_title">¿Te gusta Flashlight Torch?</string>
     <string name="rate_message">Si encuentras esta aplicación útil, por favor tómate un momento para calificarla. ¡Realmente ayuda!</string>
     <string name="rate_now">Calificar ahora</string>
     <string name="rate_later">Más tarde</string>

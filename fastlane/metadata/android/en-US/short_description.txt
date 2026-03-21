@@ -1,1 +1,1 @@
-A simple flashlight app with pull rope animation and shake detection
+Flashlight torch app with LED light, pull rope switch, shake to toggle & strobe

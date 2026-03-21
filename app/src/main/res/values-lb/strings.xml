@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Tascheluucht Knäppchen</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Timer annulléiert</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Genéisst Dir Flashlight Torch Pro?</string>
+    <string name="rate_title">Genéisst Dir Flashlight Torch?</string>
     <string name="rate_message">Wann Dir dës App nëtzlech fannt, bewäert se w.e.g. Et hëlleft wierklech!</string>
     <string name="rate_now">Elo bewäerten</string>
     <string name="rate_later">Méi spéit</string>

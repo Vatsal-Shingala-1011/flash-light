@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">손전등 토글 버튼</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">타이머 취소됨</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Flashlight Torch Pro이 마음에 드시나요?</string>
+    <string name="rate_title">Flashlight Torch이 마음에 드시나요?</string>
     <string name="rate_message">이 앱이 유용하시다면 잠시 시간을 내어 평가해 주세요. 정말 큰 도움이 됩니다!</string>
     <string name="rate_now">지금 평가</string>
     <string name="rate_later">나중에</string>

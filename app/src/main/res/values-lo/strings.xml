@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">ປຸ່ມເປີດ/ປິດໄຟສາຍ</string>
     <string name="choose_language">ເລືອກພາສາ</string>
     <string name="search_language">ຊອກຫາພາສາ…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">ໄຟສາຍປິດ</string>
     <string name="timer_set">ໂມງປິດອັດຕະໂນມັດຕັ້ງແລ້ວ: %1$s</string>
     <string name="timer_cancelled">ໂມງຖືກຍົກເລີກ</string>
-    <string name="rate_title">ມັກ Flashlight Torch Pro ບໍ?</string>
+    <string name="rate_title">ມັກ Flashlight Torch ບໍ?</string>
     <string name="rate_message">ຖ້າເຈົ້າເຫັນວ່າແອັບນີ້ເປັນປະໂຫຍດ, ກະລຸນາໃຫ້ຄະແນນ. ມັນຊ່ວຍໄດ້ແທ້ໆ!</string>
     <string name="rate_now">ໃຫ້ຄະແນນດຽວນີ້</string>
     <string name="rate_later">ພາຍຫຼັງ</string>

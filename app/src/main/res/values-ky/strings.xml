@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Фонарикти которуу баскычы</string>
     <string name="choose_language">Тилди тандаңыз</string>
     <string name="search_language">Тил издөө…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Фонарик өчүк</string>
     <string name="timer_set">Авто-өчүрүү таймери коюлду: %1$s</string>
     <string name="timer_cancelled">Таймер жокко чыгарылды</string>
-    <string name="rate_title">Flashlight Torch Pro жагабы?</string>
+    <string name="rate_title">Flashlight Torch жагабы?</string>
     <string name="rate_message">Бул колдонмо пайдалуу болсо, баалаңыз. Бул чындап жардам берет!</string>
     <string name="rate_now">Азыр баала</string>
     <string name="rate_later">Кийинчерээк</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">සැණෙළිය ටොගල් බොත්තම</string>
     <string name="choose_language">භාෂාව තෝරන්න</string>
     <string name="search_language">භාෂාව සොයන්න…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">සැණෙළිය ක්‍රියාවිරහිතයි</string>
     <string name="timer_set">ස්වයං-ක්‍රියාවිරහිත කාලය සකසා ඇත: %1$s</string>
     <string name="timer_cancelled">කාලය අවලංගුයි</string>
-    <string name="rate_title">Flashlight Torch Pro කැමතිද?</string>
+    <string name="rate_title">Flashlight Torch කැමතිද?</string>
     <string name="rate_message">මෙම යෙදුම ප්‍රයෝජනවත් නම් කරුණාකර ශ්‍රේණිගත කරන්න. එයින් ඇත්තටම උදව් වේ!</string>
     <string name="rate_now">දැන් ශ්‍රේණිගත කරන්න</string>
     <string name="rate_later">පසුව</string>

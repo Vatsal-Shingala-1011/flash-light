@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Cnaipe scoráin tóirse</string>
     <string name="choose_language">Roghnaigh teanga</string>
     <string name="search_language">Cuardaigh teanga…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Tóirse as</string>
     <string name="timer_set">Amadóir uath-mhúchta socraithe: %1$s</string>
     <string name="timer_cancelled">Amadóir cealaithe</string>
-    <string name="rate_title">An maith leat Flashlight Torch Pro?</string>
+    <string name="rate_title">An maith leat Flashlight Torch?</string>
     <string name="rate_message">Má fhaigheann tú an aip seo úsáideach, rátáil é le do thoil. Cuidíonn sé go mór!</string>
     <string name="rate_now">Rátáil anois</string>
     <string name="rate_later">Ar ball</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">የባትሪ መብራት ማብሪያ/ማጥፊያ ቁልፍ</string>
     <string name="choose_language">ቋንቋ ይምረጡ</string>
     <string name="search_language">ቋንቋ ይፈልጉ…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">ባትሪ መብራት ጠፍቷል</string>
     <string name="timer_set">ራስ-ማጥፊያ ሰዓት ቆጣሪ ተዘጋጅቷል: %1$s</string>
     <string name="timer_cancelled">ሰዓት ቆጣሪ ተሰርዟል</string>
-    <string name="rate_title">Flashlight Torch Pro ይወዳሉ?</string>
+    <string name="rate_title">Flashlight Torch ይወዳሉ?</string>
     <string name="rate_message">ይህ መተግበሪያ ጠቃሚ ሆኖ ካገኙት፣ እባክዎ ደረጃ ይስጡ። በእውነት ይረዳል!</string>
     <string name="rate_now">አሁን ደረጃ ስጥ</string>
     <string name="rate_later">ቆይቶ</string>

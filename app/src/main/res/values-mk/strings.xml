@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Копче за вклучување фенерче</string>
     <string name="choose_language">Изберете јазик</string>
     <string name="search_language">Пребарувај јазик…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Фенерче исклучено</string>
     <string name="timer_set">Тајмер за авто-исклучување поставен: %1$s</string>
     <string name="timer_cancelled">Тајмерот е откажан</string>
-    <string name="rate_title">Ви се допаѓа Flashlight Torch Pro?</string>
+    <string name="rate_title">Ви се допаѓа Flashlight Torch?</string>
     <string name="rate_message">Ако ја сметате оваа апликација за корисна, оценете ја. Навистина помага!</string>
     <string name="rate_now">Оцени сега</string>
     <string name="rate_later">Подоцна</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">ფანრის გადართვის ღილაკი</string>
     <string name="choose_language">აირჩიეთ ენა</string>
     <string name="search_language">ენის ძებنა…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">ფანარი გამორთულია</string>
     <string name="timer_set">ავტო-გამორთვის ტაიმერი დაყენებულია: %1$s</string>
     <string name="timer_cancelled">ტაიმერი გაუქმებულია</string>
-    <string name="rate_title">მოგწონთ Flashlight Torch Pro?</string>
+    <string name="rate_title">მოგწონთ Flashlight Torch?</string>
     <string name="rate_message">თუ ეს აპლიკაცია სასარგებლო მოგეჩვენათ, გთხოვთ შეაფასოთ. ეს მართლა ეხმარება!</string>
     <string name="rate_now">შეაფასეთ ახლა</string>
     <string name="rate_later">მოგვიანებით</string>

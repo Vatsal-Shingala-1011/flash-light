@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Flashlight toggle button</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Timer cancelled</string>
     
     <!-- Rate dialog -->
-    <string name="rate_title">Enjoying Flashlight Torch Pro?</string>
+    <string name="rate_title">Enjoying Flashlight Torch?</string>
     <string name="rate_message">If you find this app useful, please take a moment to rate it. It really helps!</string>
     <string name="rate_now">Rate Now</string>
     <string name="rate_later">Later</string>

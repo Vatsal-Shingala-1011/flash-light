@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">दीपयन्त्रं परिवर्तनबटनम्</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">समयमापकं निरस्तम्</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Flashlight Torch Pro रोचते वा?</string>
+    <string name="rate_title">Flashlight Torch रोचते वा?</string>
     <string name="rate_message">यदि एतत् अनुप्रयोगम् उपयोगि मन्यते, कृपया मूल्याङ्कनं करोतु। एतत् साहाय्यकरम् अस्ति!</string>
     <string name="rate_now">अधुना मूल्याङ्कयतु</string>
     <string name="rate_later">पश्चात्</string>

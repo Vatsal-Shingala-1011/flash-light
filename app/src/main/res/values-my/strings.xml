@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">ဓာတ်မီး ခလုတ်</string>
     <string name="choose_language">ဘာသာစကား ရွေးပါ</string>
     <string name="search_language">ဘာသာစကား ရှာပါ…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">ဓာတ်မီး ပိတ်ပြီး</string>
     <string name="timer_set">အလိုအလျောက် ပိတ် အချိန် သတ်မှတ်ပြီး: %1$s</string>
     <string name="timer_cancelled">အချိန် ပယ်ဖျက်ပြီး</string>
-    <string name="rate_title">Flashlight Torch Pro ကြိုက်ပါသလား?</string>
+    <string name="rate_title">Flashlight Torch ကြိုက်ပါသလား?</string>
     <string name="rate_message">ဤအက်ပ် အသုံးဝင်ပါက အဆင့်သတ်မှတ်ပေးပါ။ အမှန်တကယ် အထောက်အကူ ဖြစ်ပါသည်!</string>
     <string name="rate_now">ယခု အဆင့်သတ်မှတ်ပါ</string>
     <string name="rate_later">နောက်မှ</string>

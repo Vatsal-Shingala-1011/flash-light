@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Кнопка пераключэння ліхтарыка</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Таймер адменены</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Падабаецца Flashlight Torch Pro?</string>
+    <string name="rate_title">Падабаецца Flashlight Torch?</string>
     <string name="rate_message">Калі вы лічыце гэтае прыкладанне карысным, калі ласка, ацаніце яго. Гэта сапраўды дапамагае!</string>
     <string name="rate_now">Ацаніць зараз</string>
     <string name="rate_later">Пазней</string>

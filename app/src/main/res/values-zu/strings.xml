@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Inkinobho yokushintsha itoshi</string>
     <string name="choose_language">Khetha ulimi</string>
     <string name="search_language">Sesha ulimi…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Itoshi ivaliwe</string>
     <string name="timer_set">Isicisha ngokuzenzekela sisethelwe: %1$s</string>
     <string name="timer_cancelled">Isikhathi sikhansiliwe</string>
-    <string name="rate_title">Uyithanda i-Flashlight Torch Pro?</string>
+    <string name="rate_title">Uyithanda i-Flashlight Torch?</string>
     <string name="rate_message">Uma uthola le app iwusizo, sicela uyilinganise. Kusiza ngempela!</string>
     <string name="rate_now">Linganisa manje</string>
     <string name="rate_later">Kamuva</string>

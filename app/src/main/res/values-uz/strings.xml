@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Fonar almashtirish tugmasi</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Taymer bekor qilindi</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Flashlight Torch Pro yoqdimi?</string>
+    <string name="rate_title">Flashlight Torch yoqdimi?</string>
     <string name="rate_message">Agar siz bu ilovani foydali deb hisoblasangiz, iltimos baholang. Bu haqiqatan yordam beradi!</string>
     <string name="rate_now">Hozir Baholash</string>
     <string name="rate_later">Keyinroq</string>

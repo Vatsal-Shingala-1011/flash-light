@@ -1,0 +1,31 @@
+Linterna y Antorcha – Luz LED es una aplicación rápida y ligera de linterna para tu teléfono Android. Convierte tu teléfono en una brillante linterna LED al instante con un solo toque.
+
+⚡ Características principales:
+
+🔦 Linterna instantánea – Enciende y apaga la linterna LED con un solo toque. Sin demoras, sin complicaciones.
+
+🪢 Interruptor de cuerda – Arrastra la bombilla como un interruptor de tirón para encender la linterna con satisfactorias animaciones de resorte. ¡Una forma divertida y única de controlar tu linterna!
+
+📳 Agitar para encender – Simplemente agita tu teléfono para encender o apagar la linterna. Perfecto para acceso rápido en la oscuridad.
+
+💡 Tutorial interactivo – Un tutorial guiado con foco de luz ayuda a los nuevos usuarios a descubrir todas las funciones.
+
+🎨 Interfaz dinámica – El color de fondo, el icono de la bombilla y la barra de estado cambian dinámicamente según el estado de la linterna para una hermosa retroalimentación visual.
+
+🌍 Soporte multilingüe – Disponible en más de 80 idiomas para usuarios de todo el mundo.
+
+🔒 Enfocado en la privacidad:
+• No requiere permiso de internet – funciona 100% sin conexión
+• Sin anuncios, sin seguimiento, sin analíticas
+• Sin recopilación de datos personales
+• Completamente de código abierto
+
+⚙️ Detalles técnicos:
+• Usa la API Camera2 para un control confiable de la linterna
+• Animaciones de física de resorte para una experiencia premium
+• Aplicación ligera con consumo mínimo de batería
+• Compatible con Android 7.0 y superior
+
+Ya sea que necesites una linterna rápida en la oscuridad, una antorcha LED brillante para emergencias, o simplemente un divertido interruptor de tirón, Linterna y Antorcha es la aplicación perfecta para ti.
+
+¡Descarga ahora – es gratis, privada y funciona sin conexión!

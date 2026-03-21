@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Lukturīša pārslēgšanas poga</string>
     <string name="choose_language">Izvēlēties valodu</string>
     <string name="search_language">Meklēt valodu…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Lukturītis izslēgts</string>
     <string name="timer_set">Auto-izslēgšanas taimeris iestatīts: %1$s</string>
     <string name="timer_cancelled">Taimeris atcelts</string>
-    <string name="rate_title">Patīk Flashlight Torch Pro?</string>
+    <string name="rate_title">Patīk Flashlight Torch?</string>
     <string name="rate_message">Ja uzskatāt šo lietotni par noderīgu, lūdzu novērtējiet to. Tas tiešām palīdz!</string>
     <string name="rate_now">Novērtēt tagad</string>
     <string name="rate_later">Vēlāk</string>

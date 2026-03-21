@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">टर्च टगल बटन</string>
     <string name="choose_language">भाषा छान्नुहोस्</string>
     <string name="search_language">भाषा खोज्नुहोस्…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">टर्च बन्द</string>
     <string name="timer_set">स्वतः बन्द टाइमर सेट: %1$s</string>
     <string name="timer_cancelled">टाइमर रद्द भयो</string>
-    <string name="rate_title">Flashlight Torch Pro मनपर्छ?</string>
+    <string name="rate_title">Flashlight Torch मनपर्छ?</string>
     <string name="rate_message">यदि तपाईंलाई यो एप उपयोगी लाग्छ भने कृपया रेटिङ दिनुहोस्। यसले साँच्चै मद्दत गर्छ!</string>
     <string name="rate_now">अहिले रेट गर्नुहोस्</string>
     <string name="rate_later">पछि</string>

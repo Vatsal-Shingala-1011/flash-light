@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Vasahnappur til að skipta</string>
     <string name="choose_language">Veldu tungumál</string>
     <string name="search_language">Leita að tungumáli…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Vasalampi slökkt</string>
     <string name="timer_set">Sjálfvirk slökkun stillt: %1$s</string>
     <string name="timer_cancelled">Tímamæli afturkallaður</string>
-    <string name="rate_title">Líkar þér Flashlight Torch Pro?</string>
+    <string name="rate_title">Líkar þér Flashlight Torch?</string>
     <string name="rate_message">Ef þér finnst þetta app gagnlegt, vinsamlegast gefðu einkunn. Það hjálpar virkilega!</string>
     <string name="rate_now">Gefa einkunn núna</string>
     <string name="rate_later">Seinna</string>

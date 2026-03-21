@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Pātene huri rama</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Kua whakakore te pūataata</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">E pai ana a Flashlight Torch Pro?</string>
+    <string name="rate_title">E pai ana a Flashlight Torch?</string>
     <string name="rate_message">Mēnā e whai hua tēnei taupānga ki a koe, tēnā koa whakaratohia. He āwhina tūturu!</string>
     <string name="rate_now">Whakarato Ināianei</string>
     <string name="rate_later">Ā muri</string>

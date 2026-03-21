@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Zaklamp schakelknop</string>
     <string name="choose_language">Kies taal</string>
     <string name="search_language">Taal zoeken…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Zaklamp uit</string>
     <string name="timer_set">Auto-uit timer ingesteld: %1$s</string>
     <string name="timer_cancelled">Timer geannuleerd</string>
-    <string name="rate_title">Tevreden met Flashlight Torch Pro?</string>
+    <string name="rate_title">Tevreden met Flashlight Torch?</string>
     <string name="rate_message">Als u deze app nuttig vindt, beoordeel hem dan. Het helpt echt!</string>
     <string name="rate_now">Nu beoordelen</string>
     <string name="rate_later">Later</string>

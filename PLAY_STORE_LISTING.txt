@@ -1,0 +1,269 @@
+============================================================
+  GOOGLE PLAY STORE LISTING - TOP 5 LANGUAGES
+  Copy each section into the Play Store Console
+  under the respective language translation.
+============================================================
+
+
+============================================================
+  1. ENGLISH (en-US) - Default
+============================================================
+
+App name (28/30):
+Flashlight Torch – LED Light
+
+Short description (79/80):
+Flashlight torch app with LED light, pull rope switch, shake to toggle & strobe
+
+Full description:
+Flashlight Torch – LED Light is a fast, lightweight flashlight and torch app for your Android phone. Turn your phone into a bright LED flashlight instantly with just one tap.
+
+⚡ Key Features:
+
+🔦 Instant Flashlight – Turn the LED torch on and off with a single tap. No delay, no hassle.
+
+🪢 Pull Rope Switch – Drag the lightbulb like a pull-cord switch to toggle the flashlight with satisfying spring animations. A fun and unique way to control your torch!
+
+📳 Shake to Toggle – Just shake your phone to turn the flashlight on or off. Perfect for quick access in the dark.
+
+💡 Interactive Tutorial – A guided spotlight tutorial helps first-time users discover all the features.
+
+🎨 Dynamic Interface – The background color, light bulb icon, and status bar change dynamically based on the flashlight status for beautiful visual feedback.
+
+🌍 Multi-Language Support – Available in 80+ languages for users worldwide.
+
+🔒 Privacy Focused:
+• No internet permission required – works 100% offline
+• No ads, no tracking, no analytics
+• No personal data collection
+• Completely open source
+
+⚙️ Technical Details:
+• Uses Camera2 API for reliable flashlight control
+• Spring physics animations for a premium feel
+• Lightweight app with minimal battery usage
+• Supports Android 7.0 and above
+
+Whether you need a quick flashlight in the dark, a bright LED torch for emergencies, or just a fun pull-rope light switch, Flashlight Torch is the perfect app for you.
+
+Download now – it's free, private, and works offline!
+
+
+============================================================
+  2. SPANISH (es-ES)
+============================================================
+
+App name (30/30):
+Linterna y Antorcha – Luz LED
+
+Short description (80/80):
+Linterna LED con interruptor de cuerda, agitar para encender y modo estroboscópico
+
+Full description:
+Linterna y Antorcha – Luz LED es una aplicación rápida y ligera de linterna para tu teléfono Android. Convierte tu teléfono en una brillante linterna LED al instante con un solo toque.
+
+⚡ Características principales:
+
+🔦 Linterna instantánea – Enciende y apaga la linterna LED con un solo toque. Sin demoras, sin complicaciones.
+
+🪢 Interruptor de cuerda – Arrastra la bombilla como un interruptor de tirón para encender la linterna con satisfactorias animaciones de resorte. ¡Una forma divertida y única de controlar tu linterna!
+
+📳 Agitar para encender – Simplemente agita tu teléfono para encender o apagar la linterna. Perfecto para acceso rápido en la oscuridad.
+
+💡 Tutorial interactivo – Un tutorial guiado con foco de luz ayuda a los nuevos usuarios a descubrir todas las funciones.
+
+🎨 Interfaz dinámica – El color de fondo, el icono de la bombilla y la barra de estado cambian dinámicamente según el estado de la linterna para una hermosa retroalimentación visual.
+
+🌍 Soporte multilingüe – Disponible en más de 80 idiomas para usuarios de todo el mundo.
+
+🔒 Enfocado en la privacidad:
+• No requiere permiso de internet – funciona 100% sin conexión
+• Sin anuncios, sin seguimiento, sin analíticas
+• Sin recopilación de datos personales
+• Completamente de código abierto
+
+⚙️ Detalles técnicos:
+• Usa la API Camera2 para un control confiable de la linterna
+• Animaciones de física de resorte para una experiencia premium
+• Aplicación ligera con consumo mínimo de batería
+• Compatible con Android 7.0 y superior
+
+Ya sea que necesites una linterna rápida en la oscuridad, una antorcha LED brillante para emergencias, o simplemente un divertido interruptor de tirón, Linterna y Antorcha es la aplicación perfecta para ti.
+
+¡Descarga ahora – es gratis, privada y funciona sin conexión!
+
+
+============================================================
+  3. CHINESE SIMPLIFIED (zh-CN)
+============================================================
+
+App name (10/30):
+手电筒 – LED灯光
+
+Short description (27/80):
+LED手电筒应用，拉绳开关、摇晃切换和频闪模式，轻量无广告
+
+Full description:
+手电筒 – LED灯光是一款快速、轻量的Android手电筒应用。只需一次点击，即可将您的手机变成明亮的LED手电筒。
+
+⚡ 主要功能：
+
+🔦 即时手电筒 – 一键开关LED手电筒。无延迟，无麻烦。
+
+🪢 拉绳开关 – 像拉绳开关一样拖动灯泡来切换手电筒，伴随令人满意的弹簧动画。一种有趣且独特的控制手电筒方式！
+
+📳 摇晃切换 – 只需摇晃手机即可开关手电筒。在黑暗中快速使用的完美方式。
+
+💡 互动教程 – 引导式聚光灯教程帮助新用户发现所有功能。
+
+🎨 动态界面 – 背景颜色、灯泡图标和状态栏根据手电筒状态动态变化，提供美丽的视觉反馈。
+
+🌍 多语言支持 – 支持80多种语言，服务全球用户。
+
+🔒 注重隐私：
+• 无需网络权限 – 100%离线工作
+• 无广告、无追踪、无分析
+• 不收集个人数据
+• 完全开源
+
+⚙️ 技术细节：
+• 使用Camera2 API实现可靠的手电筒控制
+• 弹簧物理动画带来高级体验
+• 轻量应用，电池消耗极低
+• 支持Android 7.0及以上版本
+
+无论您需要在黑暗中快速照明、紧急情况下的明亮LED手电筒，还是有趣的拉绳灯开关，手电筒都是您的完美选择。
+
+立即下载 – 免费、隐私保护且离线可用！
+
+
+============================================================
+  4. HINDI (hi-IN)
+============================================================
+
+App name (28/30):
+फ्लैशलाइट टॉर्च – LED लाइट
+
+Short description (73/80):
+LED फ्लैशलाइट टॉर्च, रस्सी स्विच, हिलाकर टॉगल और स्ट्रोब मोड, विज्ञापन-मुक्त
+
+Full description:
+फ्लैशलाइट टॉर्च – LED लाइट आपके Android फोन के लिए एक तेज, हल्का फ्लैशलाइट और टॉर्च ऐप है। बस एक टैप से अपने फोन को चमकदार LED फ्लैशलाइट में बदलें।
+
+⚡ प्रमुख विशेषताएं:
+
+🔦 तत्काल फ्लैशलाइट – एक टैप से LED टॉर्च चालू और बंद करें। कोई देरी नहीं, कोई परेशानी नहीं।
+
+🪢 रस्सी स्विच – फ्लैशलाइट को टॉगल करने के लिए बल्ब को पुल-कॉर्ड स्विच की तरह खींचें, संतोषजनक स्प्रिंग एनिमेशन के साथ। अपनी टॉर्च को नियंत्रित करने का एक मजेदार और अनोखा तरीका!
+
+📳 हिलाकर टॉगल – बस अपना फोन हिलाएं और फ्लैशलाइट चालू या बंद करें। अंधेरे में त्वरित उपयोग के लिए बिल्कुल सही।
+
+💡 इंटरैक्टिव ट्यूटोरियल – एक गाइडेड स्पॉटलाइट ट्यूटोरियल नए उपयोगकर्ताओं को सभी सुविधाएं खोजने में मदद करता है।
+
+🎨 डायनामिक इंटरफ़ेस – बैकग्राउंड रंग, बल्ब आइकन और स्टेटस बार फ्लैशलाइट की स्थिति के आधार पर गतिशील रूप से बदलते हैं।
+
+🌍 बहु-भाषा समर्थन – दुनिया भर के उपयोगकर्ताओं के लिए 80+ भाषाओं में उपलब्ध।
+
+🔒 गोपनीयता केंद्रित:
+• इंटरनेट अनुमति की आवश्यकता नहीं – 100% ऑफलाइन काम करता है
+• कोई विज्ञापन नहीं, कोई ट्रैकिंग नहीं, कोई एनालिटिक्स नहीं
+• कोई व्यक्तिगत डेटा संग्रह नहीं
+• पूरी तरह से ओपन सोर्स
+
+⚙️ तकनीकी विवरण:
+• विश्वसनीय फ्लैशलाइट नियंत्रण के लिए Camera2 API का उपयोग
+• प्रीमियम अनुभव के लिए स्प्रिंग फिजिक्स एनिमेशन
+• न्यूनतम बैटरी उपयोग वाला हल्का ऐप
+• Android 7.0 और उससे ऊपर का समर्थन
+
+चाहे आपको अंधेरे में तेज फ्लैशलाइट चाहिए, आपातकाल के लिए चमकदार LED टॉर्च, या बस एक मजेदार पुल-रोप लाइट स्विच, फ्लैशलाइट टॉर्च आपके लिए सही ऐप है।
+
+अभी डाउनलोड करें – यह मुफ्त, निजी और ऑफलाइन काम करता है!
+
+
+============================================================
+  5. ARABIC (ar)
+============================================================
+
+App name (19/30):
+مصباح يدوي – ضوء LED
+
+Short description (68/80):
+تطبيق مصباح LED يدوي مع مفتاح الحبل، هز للتبديل ووضع ستروب، بدون إعلانات
+
+Full description:
+مصباح يدوي – ضوء LED هو تطبيق مصباح يدوي سريع وخفيف لهاتفك الأندرويد. حوّل هاتفك إلى مصباح LED ساطع فوراً بلمسة واحدة.
+
+⚡ الميزات الرئيسية:
+
+🔦 مصباح فوري – تشغيل وإيقاف مصباح LED بلمسة واحدة. بدون تأخير، بدون عناء.
+
+🪢 مفتاح الحبل – اسحب المصباح مثل مفتاح السحب لتبديل المصباح مع رسوم متحركة زنبركية ممتعة. طريقة ممتعة وفريدة للتحكم في مصباحك!
+
+📳 هز للتبديل – فقط هز هاتفك لتشغيل أو إيقاف المصباح. مثالي للوصول السريع في الظلام.
+
+💡 برنامج تعليمي تفاعلي – برنامج تعليمي موجه بالضوء يساعد المستخدمين الجدد على اكتشاف جميع الميزات.
+
+🎨 واجهة ديناميكية – يتغير لون الخلفية، أيقونة المصباح وشريط الحالة ديناميكياً بناءً على حالة المصباح لتجربة بصرية جميلة.
+
+🌍 دعم متعدد اللغات – متاح بأكثر من 80 لغة للمستخدمين حول العالم.
+
+🔒 التركيز على الخصوصية:
+• لا يحتاج إذن إنترنت – يعمل 100% بدون اتصال
+• بدون إعلانات، بدون تتبع، بدون تحليلات
+• بدون جمع بيانات شخصية
+• مفتوح المصدر بالكامل
+
+⚙️ التفاصيل التقنية:
+• يستخدم Camera2 API للتحكم الموثوق بالمصباح
+• رسوم متحركة فيزيائية زنبركية لتجربة فاخرة
+• تطبيق خفيف مع استهلاك بطارية ضئيل
+• يدعم أندرويد 7.0 وما فوق
+
+سواء كنت بحاجة إلى مصباح سريع في الظلام، أو مصباح LED ساطع لحالات الطوارئ، أو مجرد مفتاح سحب ممتع، مصباح يدوي هو التطبيق المثالي لك.
+
+حمّل الآن – مجاني، خاص ويعمل بدون إنترنت!
+
+
+============================================================
+  6. PORTUGUESE - BRAZIL (pt-BR)
+============================================================
+
+App name (27/30):
+Lanterna Tocha – Luz de LED
+
+Short description (79/80):
+App lanterna LED com interruptor de corda, agite para alternar e modo estrobo
+
+Full description:
+Lanterna Tocha – Luz de LED é um aplicativo rápido e leve de lanterna para seu celular Android. Transforme seu celular em uma lanterna LED brilhante instantaneamente com apenas um toque.
+
+⚡ Recursos principais:
+
+🔦 Lanterna instantânea – Ligue e desligue a lanterna LED com um único toque. Sem atraso, sem complicação.
+
+🪢 Interruptor de corda – Arraste a lâmpada como um interruptor de puxar para alternar a lanterna com animações de mola satisfatórias. Uma maneira divertida e única de controlar sua lanterna!
+
+📳 Agite para alternar – Basta agitar seu celular para ligar ou desligar a lanterna. Perfeito para acesso rápido no escuro.
+
+💡 Tutorial interativo – Um tutorial guiado com holofote ajuda novos usuários a descobrir todos os recursos.
+
+🎨 Interface dinâmica – A cor de fundo, o ícone da lâmpada e a barra de status mudam dinamicamente com base no estado da lanterna para um belo feedback visual.
+
+🌍 Suporte multilíngue – Disponível em mais de 80 idiomas para usuários em todo o mundo.
+
+🔒 Foco na privacidade:
+• Não requer permissão de internet – funciona 100% offline
+• Sem anúncios, sem rastreamento, sem análises
+• Sem coleta de dados pessoais
+• Completamente código aberto
+
+⚙️ Detalhes técnicos:
+• Usa a API Camera2 para controle confiável da lanterna
+• Animações de física de mola para uma experiência premium
+• Aplicativo leve com consumo mínimo de bateria
+• Suporta Android 7.0 e superior
+
+Se você precisa de uma lanterna rápida no escuro, uma lanterna LED brilhante para emergências, ou apenas um divertido interruptor de puxar, Lanterna Tocha é o aplicativo perfeito para você.
+
+Baixe agora – é grátis, privado e funciona offline!

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Maballin canza fitila</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">An soke agogo</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Kuna jin daɗin Flashlight Torch Pro?</string>
+    <string name="rate_title">Kuna jin daɗin Flashlight Torch?</string>
     <string name="rate_message">Idan kun ga wannan manhaja tana da amfani, don Allah ku ƙididdige ta. Yana taimakawa sosai!</string>
     <string name="rate_now">Ƙididdige Yanzu</string>
     <string name="rate_later">Daga baya</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">دکمه روشن/خاموش چراغ قوه</string>
     <string name="choose_language">انتخاب زبان</string>
     <string name="search_language">جستجوی زبان…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">چراغ قوه خاموش</string>
     <string name="timer_set">تایمر خاموشی خودکار تنظیم شد: %1$s</string>
     <string name="timer_cancelled">تایمر لغو شد</string>
-    <string name="rate_title">از Flashlight Torch Pro راضی هستید؟</string>
+    <string name="rate_title">از Flashlight Torch راضی هستید؟</string>
     <string name="rate_message">اگر این برنامه برایتان مفید است، لطفاً امتیاز دهید. واقعاً کمک می‌کند!</string>
     <string name="rate_now">همین الان امتیاز دهید</string>
     <string name="rate_later">بعداً</string>

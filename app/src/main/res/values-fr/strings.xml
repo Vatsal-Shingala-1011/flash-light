@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Bouton d\'activation de la lampe torche</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Minuterie annulée</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Vous aimez Flashlight Torch Pro ?</string>
+    <string name="rate_title">Vous aimez Flashlight Torch ?</string>
     <string name="rate_message">Si vous trouvez cette application utile, veuillez prendre un moment pour la noter. Cela aide vraiment !</string>
     <string name="rate_now">Noter maintenant</string>
     <string name="rate_later">Plus tard</string>

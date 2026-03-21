@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">El feneri açma/kapama düğmesi</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Zamanlayıcı iptal edildi</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Flashlight Torch Pro\'yu beğeniyor musunuz?</string>
+    <string name="rate_title">Flashlight Torch\'yu beğeniyor musunuz?</string>
     <string name="rate_message">Bu uygulamayı faydalı buluyorsanız, lütfen bir an ayırıp değerlendirin. Gerçekten çok yardımcı olur!</string>
     <string name="rate_now">Şimdi değerlendir</string>
     <string name="rate_later">Daha sonra</string>

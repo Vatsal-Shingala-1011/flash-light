@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Tombol sakelar senter</string>
 
     <!-- Language -->
@@ -47,7 +47,7 @@
     <string name="timer_cancelled">Timer dibatalkan</string>
 
     <!-- Rate dialog -->
-    <string name="rate_title">Suka Flashlight Torch Pro?</string>
+    <string name="rate_title">Suka Flashlight Torch?</string>
     <string name="rate_message">Jika Anda merasa aplikasi ini berguna, mohon luangkan waktu untuk memberi penilaian. Ini sangat membantu!</string>
     <string name="rate_now">Nilai sekarang</string>
     <string name="rate_later">Nanti</string>

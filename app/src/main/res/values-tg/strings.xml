@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Дугмаи гузариши чароғак</string>
     <string name="choose_language">Забонро интихоб кунед</string>
     <string name="search_language">Ҷустуҷӯи забон…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Чароғак хомӯш</string>
     <string name="timer_set">Таймери худкор хомӯш гузошта шуд: %1$s</string>
     <string name="timer_cancelled">Таймер бекор карда шуд</string>
-    <string name="rate_title">Flashlight Torch Pro маъқул аст?</string>
+    <string name="rate_title">Flashlight Torch маъқул аст?</string>
     <string name="rate_message">Агар ин барномаро муфид ёфтед, лутфан баҳо диҳед. Ин воқеан кӯмак мекунад!</string>
     <string name="rate_now">Ҳозир баҳо диҳед</string>
     <string name="rate_later">Баъдтар</string>

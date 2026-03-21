@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Žibintuvėlio perjungimo mygtukas</string>
     <string name="choose_language">Pasirinkite kalbą</string>
     <string name="search_language">Ieškoti kalbos…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Žibintuvėlis išjungtas</string>
     <string name="timer_set">Auto-išjungimo laikmatis nustatytas: %1$s</string>
     <string name="timer_cancelled">Laikmatis atšauktas</string>
-    <string name="rate_title">Patinka Flashlight Torch Pro?</string>
+    <string name="rate_title">Patinka Flashlight Torch?</string>
     <string name="rate_message">Jei manote, kad ši programėlė naudinga, įvertinkite ją. Tai tikrai padeda!</string>
     <string name="rate_now">Įvertinti dabar</string>
     <string name="rate_later">Vėliau</string>

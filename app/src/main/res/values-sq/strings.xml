@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flashlight Torch Pro</string>
+    <string name="app_name">Flashlight Torch</string>
     <string name="flashlight_bulb">Butoni i ndërrimit të elektrikut</string>
     <string name="choose_language">Zgjidhni gjuhën</string>
     <string name="search_language">Kërko gjuhën…</string>
@@ -31,7 +31,7 @@
     <string name="flashlight_off">Elektrik fikur</string>
     <string name="timer_set">Kohëmatësi i auto-fikjes i vendosur: %1$s</string>
     <string name="timer_cancelled">Kohëmatësi u anulua</string>
-    <string name="rate_title">Ju pëlqen Flashlight Torch Pro?</string>
+    <string name="rate_title">Ju pëlqen Flashlight Torch?</string>
     <string name="rate_message">Nëse e gjeni këtë aplikacion të dobishëm, ju lutem vlerësojeni. Ndihmon vërtetë!</string>
     <string name="rate_now">Vlerëso tani</string>
     <string name="rate_later">Më vonë</string>

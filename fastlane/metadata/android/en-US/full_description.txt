@@ -1,15 +1,31 @@
-FlashlightMine is a simple yet elegant Android flashlight application with unique interactive features.
+Flashlight Torch – LED Light is a fast, lightweight flashlight and torch app for your Android phone. Turn your phone into a bright LED flashlight instantly with just one tap.
 
-Features:
-• Flashlight Control: Turn the flashlight ON/OFF with a simple button tap
-• Pull Rope Interaction: Drag the lightbulb or line like a pull-cord switch to toggle the flashlight with realistic spring animations
-• Shake Detection: Shake your device to toggle the flashlight - perfect for quick access
-• Interactive Tutorial: A spotlight tutorial guides first-time users on how to use the pull-to-toggle feature
-• Dynamic UI: Background color and light bulb icon change based on flashlight status with beautiful visual feedback
+⚡ Key Features:
 
-Privacy Focused:
-• No internet permission required
-• No ads or tracking
+🔦 Instant Flashlight – Turn the LED torch on and off with a single tap. No delay, no hassle.
+
+🪢 Pull Rope Switch – Drag the lightbulb like a pull-cord switch to toggle the flashlight with satisfying spring animations. A fun and unique way to control your torch!
+
+📳 Shake to Toggle – Just shake your phone to turn the flashlight on or off. Perfect for quick access in the dark.
+
+💡 Interactive Tutorial – A guided spotlight tutorial helps first-time users discover all the features.
+
+🎨 Dynamic Interface – The background color, light bulb icon, and status bar change dynamically based on the flashlight status for beautiful visual feedback.
+
+🌍 Multi-Language Support – Available in 80+ languages for users worldwide.
+
+🔒 Privacy Focused:
+• No internet permission required – works 100% offline
+• No ads, no tracking, no analytics
+• No personal data collection
 • Completely open source
 
-This app uses the Camera2 API for flashlight control and includes spring physics animations for a premium user experience.
+⚙️ Technical Details:
+• Uses Camera2 API for reliable flashlight control
+• Spring physics animations for a premium feel
+• Lightweight app with minimal battery usage
+• Supports Android 7.0 and above
+
+Whether you need a quick flashlight in the dark, a bright LED torch for emergencies, or just a fun pull-rope light switch, Flashlight Torch is the perfect app for you.
+
+Download now – it's free, private, and works offline!
